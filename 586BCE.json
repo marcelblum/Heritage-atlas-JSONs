@@ -1,0 +1,43 @@
+{
+  "cities": {
+    
+	
+	
+	
+  },
+  
+  
+  
+  
+  
+  "sites": {
+    "Beer-sheba": {
+      "hotspot": true,
+      "minimumZoomLevel": 8
+    },
+    "El Fayyum": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Hallstatt": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Jericho": {
+      "hotspot": true,
+      "minimumZoomLevel": 8
+    },
+    "Giza": {
+      "minimumZoomLevel": 6
+    },
+    "Olympia": {
+      "minimumZoomLevel": 6
+    },
+    "Delos": {
+      "minimumZoomLevel": 6
+    },
+    "Delphi": {
+      "minimumZoomLevel": 6
+    }
+  }
+}
