@@ -45,7 +45,7 @@
     "Babylon": {
       "minimumZoomLevel": 5
     },
-    "Beit El (Bethel)": {
+    "Beit El": {
       "hotspot": true,
       "minimumZoomLevel": 8
     },
@@ -113,7 +113,7 @@
       "hotspot": true,
       "minimumZoomLevel": 6
     },
-    "Gebal (Byblos)": {
+    "Gebal": {
       "minimumZoomLevel": 6
     },
     "Gezer": {
@@ -123,7 +123,7 @@
       "hotspot": true,
       "minimumZoomLevel": 6
     },
-    "Halab (Aleppo)": {
+    "Halab": {
       "minimumZoomLevel": 6
     },
     "Halicarnassus": {
@@ -148,7 +148,7 @@
       "hotspot": true,
       "minimumZoomLevel": 5
     },
-    "Joppa (Jaffa)": {
+    "Joppa": {
       "hotspot": true,
       "minimumZoomLevel": 8
     },
@@ -197,10 +197,10 @@
       "hotspot": true,
       "minimumZoomLevel": 6
     },
-    "No-Amon (Thebes / Waset)": {
+    "No-Amon": {
       "minimumZoomLevel": 5
     },
-    "Noph (Memphis)": {
+    "Noph": {
       "minimumZoomLevel": 5
     },
     "Panormus": {
@@ -251,7 +251,7 @@
     "Susa": {
       "minimumZoomLevel": 5
     },
-    "Syene (Swan)": {
+    "Syene": {
       "minimumZoomLevel": 6
     },
     "Syracuse": {
@@ -291,7 +291,7 @@
     "Ur": {
       "minimumZoomLevel": 6
     },
-    "Uruk (Erech)": {
+    "Uruk": {
       "minimumZoomLevel": 6
     },
     "Utica": {
