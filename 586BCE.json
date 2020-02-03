@@ -1,10 +1,341 @@
 {
   "cities": {
-    
-	
-	
-	
+    "Ancyra": {
+      "minimumZoomLevel": 6
+    },
+    "Akko": {
+      "minimumZoomLevel": 6
+    },
+    "Akragas": {
+      "minimumZoomLevel": 6
+    },
+    "Alalia": {
+      "minimumZoomLevel": 6
+    },
+    "Aphek": {
+      "hotspot": true,
+      "minimumZoomLevel": 8
+    },
+    "Arad": {
+      "hotspot": true,
+      "minimumZoomLevel": 8
+    },
+    "Arbela": {
+      "minimumZoomLevel": 6
+    },
+    "Aradus": {
+      "minimumZoomLevel": 6
+    },
+    "Argos": {
+      "minimumZoomLevel": 6
+    },
+    "Ashdod": {
+      "minimumZoomLevel": 8
+    },
+    "Ashkelon": {
+      "hotspot": true,
+      "minimumZoomLevel": 8
+    },
+    "Ashtaroth": {
+      "minimumZoomLevel": 8
+    },
+    "Athens": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Azekah": {
+      "minimumZoomLevel": 8
+    },
+    "Babylon": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Beit She’an": {
+      "hotspot": true,
+      "minimumZoomLevel": 8
+    },
+    "Bethlehem": {
+      "minimumZoomLevel": 8
+    },
+    "Biskupin": {
+      "minimumZoomLevel": 6
+    },
+    "Byzantium": {
+      "minimumZoomLevel": 6
+    },
+    "Caere": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Capua": {
+      "minimumZoomLevel": 6
+    },
+    "Carchemish": {
+      "minimumZoomLevel": 6
+    },
+    "Carthage": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Chios": {
+      "minimumZoomLevel": 6
+    },
+    "Clusium": {
+      "minimumZoomLevel": 6
+    },
+    "Corinth": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Croton": {
+      "minimumZoomLevel": 6
+    },
+    "Cumae": {
+      "minimumZoomLevel": 6
+    },
+    "Cyrene": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Damascus": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Dor": {
+      "minimumZoomLevel": 8
+    },
+    "Ecbatana": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Elath": {
+      "minimumZoomLevel": 6
+    },
+    "Enkomi": {
+      "minimumZoomLevel": 6
+    },
+    "Ephesus": {
+      "minimumZoomLevel": 6
+    },
+    "Gaza": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Byblos": {
+      "minimumZoomLevel": 8
+    },
+    "Gezer": {
+      "minimumZoomLevel": 8
+    },
+    "Gordion": {
+      "minimumZoomLevel": 6
+    },
+    "Halab": {
+      "minimumZoomLevel": 6
+    },
+    "Halicarnassus": {
+      "minimumZoomLevel": 6
+    },
+    "Hamath": {
+      "minimumZoomLevel": 6
+    },
+    "Haran": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Hebron": {
+      "minimumZoomLevel": 8
+    },
+    "Hippo": {
+      "minimumZoomLevel": 6
+    },
+    "Iconium": {
+      "minimumZoomLevel": 6
+    },
+    "Istros": {
+      "minimumZoomLevel": 6
+    },
+    "Jerusalem": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Joppa": {
+      "minimumZoomLevel": 8
+    },
+    "Kanish": {
+      "minimumZoomLevel": 6
+    },
+    "Kedesh": {
+      "minimumZoomLevel": 8
+    },
+    "Kir-Moab": {
+      "minimumZoomLevel": 8
+    },
+    "Kition": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Lachish": {
+      "hotspot": true,
+      "minimumZoomLevel": 8
+    },
+    "Leptis": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Magdalensberg": {
+      "minimumZoomLevel": 6
+    },
+    "Massilia": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Megara": {
+      "minimumZoomLevel": 6
+    },
+    "Megiddo": {
+      "minimumZoomLevel": 8
+    },
+    "Meroe": {
+      "minimumZoomLevel": 5
+    },
+    "Miletus": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Mizpah": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Motya": {
+      "minimumZoomLevel": 6
+    },
+    "Naucratis": {
+      "minimumZoomLevel": 6
+    },
+    "Neapolis": {
+      "minimumZoomLevel": 6
+    },
+    "Nippur": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Nora": {
+      "minimumZoomLevel": 6
+    },
+    "Thebes": {
+      "minimumZoomLevel": 5
+    },
+    "Memphis": {
+      "minimumZoomLevel": 5
+    },
+    "Panormus": {
+      "minimumZoomLevel": 6
+    },
+    "Phocaea": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Rabbath-Ammon": {
+      "minimumZoomLevel": 6
+    },
+    "Rhegium": {
+      "minimumZoomLevel": 6
+    },
+    "Riblah": {
+      "minimumZoomLevel": 6
+    },
+    "Rome": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Samaria": {
+      "minimumZoomLevel": 5
+    },
+    "Samos": {
+      "minimumZoomLevel": 6
+    },
+    "Sardis": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Shechem": {
+      "minimumZoomLevel": 8
+    },
+    "Sidon": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Smyrna": {
+      "minimumZoomLevel": 6
+    },
+    "Sparta": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Spina": {
+      "minimumZoomLevel": 6
+    },
+    "Susa": {
+      "minimumZoomLevel": 5
+    },
+    "Sybaris": {
+      "minimumZoomLevel": 6
+    },
+    "Syene - Elephantine": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Syracuse": {
+      "minimumZoomLevel": 6
+    },
+    "Tadmor": {
+      "minimumZoomLevel": 6
+    },
+    "Tanis": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Taras": {
+      "minimumZoomLevel": 6
+    },
+    "Tarquinia": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
+    },
+    "Tarsus": {
+      "minimumZoomLevel": 6
+    },
+    "Tharros": {
+      "minimumZoomLevel": 6
+    },
+    "Thasos": {
+      "minimumZoomLevel": 6
+    },
+    "Thebes": {
+      "minimumZoomLevel": 6
+    },
+    "Trapezus": {
+      "minimumZoomLevel": 6
+    },
+    "Tyre": {
+      "hotspot": true,
+      "minimumZoomLevel": 5
+    },
+    "Ur": {
+      "minimumZoomLevel": 6
+    },
+    "Uruk": {
+      "minimumZoomLevel": 6
+    },
+    "Utica": {
+      "minimumZoomLevel": 6
+    },
+    "Zancle": {
+      "minimumZoomLevel": 6
+    }
   },
+  
   
   
   
@@ -12,8 +343,14 @@
   
   "sites": {
     "Beer-sheba": {
-      "hotspot": true,
       "minimumZoomLevel": 8
+    },
+    "Delos": {
+      "minimumZoomLevel": 6
+    },
+    "Delphi": {
+      "hotspot": true,
+      "minimumZoomLevel": 6
     },
     "El Fayyum": {
       "hotspot": true,
@@ -27,16 +364,11 @@
       "hotspot": true,
       "minimumZoomLevel": 8
     },
-    "Giza": {
-      "minimumZoomLevel": 6
-    },
     "Olympia": {
       "minimumZoomLevel": 6
     },
-    "Delos": {
-      "minimumZoomLevel": 6
-    },
-    "Delphi": {
+    "Nineveh": {
+      "hotspot": true,
       "minimumZoomLevel": 6
     }
   }
