@@ -19,7 +19,7 @@
 			"minimumZoomLevel": 6
 		},
 		"Argos": {
-			"minimumZoomLevel": 6
+			"minimumZoomLevel": 7
 		},
 		"Ashdod": {
 			"hotspot": true,
@@ -31,10 +31,6 @@
 		},
 		"Assur": {
 			"minimumZoomLevel": 5
-		},
-		"Athens": {
-			"hotspot": true,
-			"minimumZoomLevel": 6
 		},
 		"Babylon": {
 			"minimumZoomLevel": 5
@@ -57,7 +53,7 @@
 		},
 		"Corinth": {
 			"hotspot": true,
-			"minimumZoomLevel": 5
+			"minimumZoomLevel": 6
 		},
 		"Damascus": {
 			"hotspot": true,
@@ -72,16 +68,13 @@
 		},
 		"Ekron": {
 			"hotspot": true,
-			"minimumZoomLevel": 8
+			"minimumZoomLevel": 9
 		},
 		"Elath": {
 			"hotspot": true,
 			"minimumZoomLevel": 6
 		},
 		"Enkomi": {
-			"minimumZoomLevel": 6
-		},
-		"Ephesus": {
 			"minimumZoomLevel": 6
 		},
 		"Eridu": {
@@ -159,7 +152,7 @@
 			"minimumZoomLevel": 8
 		},
 		"Lefkandi": {
-			"minimumZoomLevel": 6
+			"minimumZoomLevel": 5
 		},
 		"Lipari": {
 			"minimumZoomLevel": 6
@@ -167,10 +160,6 @@
 		"Megiddo": {
 			"hotspot": true,
 			"minimumZoomLevel": 8
-		},
-		"Miletus": {
-			"hotspot": true,
-			"minimumZoomLevel": 5
 		},
 		"Nineveh": {
 			"minimumZoomLevel": 6
@@ -192,9 +181,6 @@
 		"Ramoth-Gilead": {
 			"minimumZoomLevel": 8
 		},
-		"Sardis": {
-			"minimumZoomLevel": 6
-		},
 		"Shechem": {
 			"hotspot": true,
 			"minimumZoomLevel": 5
@@ -210,9 +196,6 @@
 		"Sippar": {
 			"minimumZoomLevel": 6
 		},
-		"Smyrna": {
-			"minimumZoomLevel": 6
-		},
 		"Susa": {
 			"minimumZoomLevel": 5
 		},
@@ -224,15 +207,12 @@
 			"minimumZoomLevel": 6
 		},
 		"Tell el-Hesi": {
-			"minimumZoomLevel": 8
+			"minimumZoomLevel": 9
 		},
 		"Tharros": {
 			"minimumZoomLevel": 6
 		},
 		"Thasos": {
-			"minimumZoomLevel": 6
-		},
-		"Thebes": {
 			"minimumZoomLevel": 6
 		},
 		"Tirzah": {
@@ -272,17 +252,11 @@
 			"hotspot": true,
 			"minimumZoomLevel": 6
 		},
-		"Jericho": {
-			"minimumZoomLevel": 8
-		},
 		"Stonehenge": {
 			"hotspot": true,
 			"minimumZoomLevel": 5
 		},
 		"Giza": {
-			"minimumZoomLevel": 6
-		},
-		"Olympia": {
 			"minimumZoomLevel": 6
 		}
 	}
