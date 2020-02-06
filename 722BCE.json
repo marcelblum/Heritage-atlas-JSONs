@@ -9,7 +9,7 @@
     },
     "Aphek": {
       "hotspot": true,
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Arad": {
       "hotspot": true,
@@ -37,24 +37,24 @@
     },
     "Athens": {
       "hotspot": true,
-      "minimumZoomLevel": 5
+      "minimumZoomLevel": 7
     },
     "Azekah": {
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Babylon": {
       "minimumZoomLevel": 5
     },
     "Beit El": {
       "hotspot": true,
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Beit She’an": {
       "hotspot": true,
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Bethlehem": {
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Biskupin": {
       "minimumZoomLevel": 6
@@ -75,7 +75,7 @@
       "minimumZoomLevel": 6
     },
     "Chios": {
-      "minimumZoomLevel": 6
+      "minimumZoomLevel": 8
     },
     "Corinth": {
       "hotspot": true,
@@ -95,7 +95,7 @@
     },
     "Ekron": {
       "hotspot": true,
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Elath": {
       "minimumZoomLevel": 6
@@ -169,7 +169,7 @@
       "minimumZoomLevel": 8
     },
     "Megara": {
-      "minimumZoomLevel": 6
+      "minimumZoomLevel": 8
     },
     "Megiddo": {
       "hotspot": true,
@@ -180,9 +180,6 @@
       "minimumZoomLevel": 5
     },
     "Motya": {
-      "minimumZoomLevel": 6
-    },
-    "Neapolis": {
       "minimumZoomLevel": 6
     },
     "Nineveh": {
@@ -218,7 +215,7 @@
     },
     "Samaria": {
       "hotspot": true,
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 7
     },
     "Samos": {
       "minimumZoomLevel": 6
@@ -228,7 +225,7 @@
     },
     "Shechem": {
       "hotspot": true,
-      "minimumZoomLevel": 6
+      "minimumZoomLevel": 9
     },
     "Sidon": {
       "hotspot": true,
@@ -242,7 +239,7 @@
     },
     "Sparta": {
       "hotspot": true,
-      "minimumZoomLevel": 6
+      "minimumZoomLevel": 8
     },
     "Susa": {
       "minimumZoomLevel": 5
@@ -265,7 +262,7 @@
       "minimumZoomLevel": 6
     },
     "Tell el-Hesi": {
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Tharros": {
       "minimumZoomLevel": 6
@@ -274,11 +271,11 @@
       "minimumZoomLevel": 6
     },
     "Thebes": {
-      "minimumZoomLevel": 6
+      "minimumZoomLevel": 8
     },
     "Tirzah": {
       "hotspot": true,
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Tyre": {
       "hotspot": true,
@@ -312,21 +309,11 @@
       "hotspot": true,
       "minimumZoomLevel": 5
     },
-    "Jericho": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
     "Giza": {
       "minimumZoomLevel": 6
     },
     "Olympia": {
-      "minimumZoomLevel": 6
-    },
-    "Delos": {
-      "minimumZoomLevel": 6
-    },
-    "Delphi": {
-      "minimumZoomLevel": 6
-    }
+      "minimumZoomLevel": 7
+      }
   }
 }
