@@ -19,11 +19,7 @@
       "minimumZoomLevel": 6
     },
     "Argos": {
-      "minimumZoomLevel": 6
-    },
-    "Ashdod": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 7
     },
     "Ashkelon": {
       "hotspot": true,
@@ -33,7 +29,7 @@
       "minimumZoomLevel": 5
     },
     "Azekah": {
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Babylon": {
       "minimumZoomLevel": 5
@@ -233,9 +229,6 @@
     "El Fayyum": {
       "hotspot": true,
       "minimumZoomLevel": 6
-    },
-    "Jericho": {
-      "minimumZoomLevel": 8
     },
     "Stonehenge": {
       "hotspot": true,
