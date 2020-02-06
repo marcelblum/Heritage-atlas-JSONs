@@ -12,7 +12,7 @@
 			"minimumZoomLevel": 8
 		},
 		"Argos": {
-			"minimumZoomLevel": 6
+			"minimumZoomLevel": 7
 		},
 		"Ashdod": {
 			"hotspot": true,
@@ -54,7 +54,7 @@
 		},
 		"Ekron": {
 			"hotspot": true,
-			"minimumZoomLevel": 8
+			"minimumZoomLevel": 9
 		},
 		"Elath": {
 			"minimumZoomLevel": 8
@@ -174,9 +174,6 @@
 		"Ramoth-Gilead": {
 			"minimumZoomLevel": 8
 		},
-		"Sardis": {
-			"minimumZoomLevel": 6
-		},
 		"Shechem": {
 			"hotspot": true,
 			"minimumZoomLevel": 5
@@ -199,7 +196,7 @@
 			"minimumZoomLevel": 6
 		},
 		"Tell el-Hesi": {
-			"minimumZoomLevel": 8
+			"minimumZoomLevel": 9
 		},
 		"Tharros": {
 			"minimumZoomLevel": 6
@@ -258,7 +255,7 @@
 		},
 		"Jericho": {
 			"hotspot": true,
-			"minimumZoomLevel": 6
+			"minimumZoomLevel": 8
 		},
 		"Stonehenge": {
 			"hotspot": true,
@@ -266,7 +263,7 @@
 		},
 		"Ai": {
 			"hotspot": true,
-			"minimumZoomLevel": 8
+			"minimumZoomLevel": 9
 		},
 		"Giza": {
 			"minimumZoomLevel": 5
