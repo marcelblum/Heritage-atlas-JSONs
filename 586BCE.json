@@ -44,7 +44,7 @@
       "minimumZoomLevel": 5
     },
     "Azekah": {
-      "minimumZoomLevel": 8
+      "minimumZoomLevel": 9
     },
     "Babylon": {
       "hotspot": true,
@@ -127,9 +127,6 @@
     "Gezer": {
       "minimumZoomLevel": 8
     },
-    "Gordion": {
-      "minimumZoomLevel": 6
-    },
     "Halab": {
       "minimumZoomLevel": 6
     },
@@ -191,7 +188,7 @@
       "minimumZoomLevel": 6
     },
     "Megara": {
-      "minimumZoomLevel": 6
+      "minimumZoomLevel": 7
     },
     "Megiddo": {
       "minimumZoomLevel": 8
@@ -205,15 +202,12 @@
     },
     "Mizpah": {
       "hotspot": true,
-      "minimumZoomLevel": 6
+      "minimumZoomLevel": 7
     },
     "Motya": {
       "minimumZoomLevel": 6
     },
     "Naucratis": {
-      "minimumZoomLevel": 6
-    },
-    "Neapolis": {
       "minimumZoomLevel": 6
     },
     "Nippur": {
@@ -332,7 +326,7 @@
       "minimumZoomLevel": 6
     },
     "Zancle": {
-      "minimumZoomLevel": 6
+      "minimumZoomLevel": 7
     }
   },
   
@@ -359,10 +353,6 @@
     "Hallstatt": {
       "hotspot": true,
       "minimumZoomLevel": 5
-    },
-    "Jericho": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
     },
     "Olympia": {
       "minimumZoomLevel": 6
