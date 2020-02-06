@@ -271,5 +271,17 @@
 		"Giza": {
 			"minimumZoomLevel": 5
 		}
-	}
+	},
+
+
+
+
+
+
+	"polylineAnimations": [
+		"BODRUM TO BEIRUT",
+		"MYCENAE TO TYRE",
+		"EUBOEA TO UGARIT",
+		"ADRIATIC TO GAZA TO PORT SAID"
+	]
 }
