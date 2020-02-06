@@ -81,6 +81,9 @@
       "hotspot": true,
       "minimumZoomLevel": 5
     },
+    "Cumae": {
+      "minimumZoomLevel": 6
+    },
     "Damascus": {
       "hotspot": true,
       "minimumZoomLevel": 6
