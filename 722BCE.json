@@ -205,6 +205,9 @@
     "Phocaea": {
       "minimumZoomLevel": 6
     },
+    "Pithecusae": {
+      "minimumZoomLevel": 5
+    },
     "Rabbath-Ammon": {
       "hotspot": true,
       "minimumZoomLevel": 6
