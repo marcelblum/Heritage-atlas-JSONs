@@ -361,5 +361,14 @@
       "hotspot": true,
       "minimumZoomLevel": 6
     }
+  },
+  
+  
+  
+  
+  "borders": {
+	"test-border1": {
+		"minimumZoomLevel": 3
+	}
   }
 }
