@@ -237,5 +237,14 @@
     "Giza": {
       "minimumZoomLevel": 6
     }
+  },
+  
+  
+  
+  
+  "borders": {
+	"test-border-alt3": {
+		"minimumZoomLevel": 3
+	}
   }
 }
