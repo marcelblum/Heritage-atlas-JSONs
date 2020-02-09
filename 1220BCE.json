@@ -280,5 +280,14 @@
 		"MYCENAE TO TYRE",
 		"EUBOEA TO UGARIT",
 		"ADRIATIC TO GAZA TO PORT SAID"
-	]
+	],
+	
+	
+	
+  
+	"borders": {
+		"test-border2-gradienttransformmatrix": {
+			"minimumZoomLevel": 3
+		}
+	}
 }
