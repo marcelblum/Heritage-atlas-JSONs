@@ -367,8 +367,14 @@
   
   
   "borders": {
-	"test-border1": {
+	"babylonia-border1": {
 		"minimumZoomLevel": 3
-	}
+	},
+	"egypt-border1": {
+		"minimumZoomLevel": 3
+	},
+	"media-border1": {
+		"minimumZoomLevel": 3
+	},
   }
 }

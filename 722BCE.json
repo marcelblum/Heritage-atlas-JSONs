@@ -321,14 +321,5 @@
     "Olympia": {
       "minimumZoomLevel": 7
       }
-  },
-  
-  
-  
-  
-  "borders": {
-	"test-border2": {
-		"minimumZoomLevel": 3
-	}
   }
 }

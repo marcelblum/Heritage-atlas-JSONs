@@ -1,4 +1,42 @@
 {
+	"babylonia-border1": {
+		"SWCornerCoordinate": {
+			"lat": 29.1,
+			"lng": 35.7
+		},
+		"NECornerCoordinate": {
+			"lat": 41.2,
+			"lng": 54.7
+		}
+	},
+	"media-border1": {
+		"SWCornerCoordinate": {
+			"lat": 29.1,
+			"lng": 35.7
+		},
+		"NECornerCoordinate": {
+			"lat": 41.2,
+			"lng": 54.7
+		}
+	},
+	"egypt-border1": {
+		"SWCornerCoordinate": {
+			"lat": 29.1,
+			"lng": 35.7
+		},
+		"NECornerCoordinate": {
+			"lat": 41.2,
+			"lng": 54.7
+		}
+	},
+	
+	
+	
+	
+	
+	
+	
+	
 	"test-border1": {
 		"SWCornerCoordinate": {
 			"lat": 29.1,
