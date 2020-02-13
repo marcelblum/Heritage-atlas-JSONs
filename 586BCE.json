@@ -361,20 +361,5 @@
       "hotspot": true,
       "minimumZoomLevel": 6
     }
-  },
-  
-  
-  
-  
-  "borders": {
-	"babylonia-586BCE": {
-		"minimumZoomLevel": 3
-	},
-	"egypt-586BCE": {
-		"minimumZoomLevel": 3
-	},
-	"media-586BCE": {
-		"minimumZoomLevel": 3
-	}
   }
 }
