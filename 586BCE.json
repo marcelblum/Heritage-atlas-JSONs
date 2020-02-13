@@ -367,13 +367,13 @@
   
   
   "borders": {
-	"babylonia-border1": {
+	"babylonia-586BCE": {
 		"minimumZoomLevel": 3
 	},
-	"egypt-border1": {
+	"egypt-586BCE": {
 		"minimumZoomLevel": 3
 	},
-	"media-border1": {
+	"media-586BCE": {
 		"minimumZoomLevel": 3
 	}
   }
