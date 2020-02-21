@@ -376,5 +376,74 @@
 	"media-586BCE": {
 		"minimumZoomLevel": 3
 	}
+  },
+
+
+
+
+
+  "labels": {
+  	"Babylonian Empire": {
+  		"positionCoordinate": {
+			"lat": 35.25535,
+			"lng": 41.37576
+		},
+  		"hotspot": true,
+  		"sizeClass": "largest",
+  		"startZoom": 3,
+  		"endZoom": 9,
+  		"type": "empire",
+		"rotationDegrees": 20,
+		"curve": {
+			"radiusPixels": 500,
+			"direction": 1
+		}
+  	},
+  	"Median Empire": {
+  		"positionCoordinate": {
+			"lat": 37.46683,
+			"lng": 45.59949
+		},
+  		"sizeClass": "largest",
+  		"startZoom": 3,
+  		"endZoom": 9,
+  		"type": "empire",
+		"rotationDegrees": 28,
+		"curve": {
+			"radiusPixels": 500,
+			"direction": 1
+		}
+  	},
+  	"Lydia": {
+  		"positionCoordinate": {
+			"lat": 39.41352,
+			"lng": 33.40746
+		},
+		"hotspot": true,
+		"sizeClass": "largest",
+  		"startZoom": 3,
+  		"endZoom": 9,
+  		"type": "region",
+		"rotationDegrees": -20,
+		"curve": {
+			"radiusPixels": 500,
+			"direction": 1
+		}
+  	},
+  	"Arabian Desert": {
+  		"positionCoordinate": {
+			"lat": 31.10077,
+			"lng": 41.15604
+		},
+  		"sizeClass": "largest",
+  		"startZoom": 3,
+  		"endZoom": 9,
+  		"type": "region",
+		"rotationDegrees": 20,
+		"curve": {
+			"radiusPixels": 500,
+			"direction": 1
+		}
+  	}
   }
 }
