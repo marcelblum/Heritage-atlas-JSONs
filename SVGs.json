@@ -1,18 +1,18 @@
 {
 	"babylonia-586BCE": {
 		"SWCornerCoordinate": {
-			"lat": 29.42870,
-			"lng": 33.77735
+			"lat": 29.423915518278367,
+			"lng": 33.77460341796875
 		},
 		"NECornerCoordinate": {
-			"lat": 38.06419,
-			"lng": 48.75171
+			"lat": 38.08148747781649,
+			"lng": 48.768189492187524
 		}
 	},
 	"media-586BCE": {
 		"SWCornerCoordinate": {
-			"lat": 26.45192,
-			"lng": 36.21082
+			"lat": 26.422407762311085,
+			"lng": 36.23279265624999
 		},
 		"NECornerCoordinate": {
 			"lat": 41.55518,
@@ -21,12 +21,12 @@
 	},
 	"egypt-586BCE": {
 		"SWCornerCoordinate": {
-			"lat": 23.93772,
-			"lng": 26.70389
+			"lat": 23.902570451576093,
+			"lng": 26.662691269531262
 		},
 		"NECornerCoordinate": {
-			"lat": 31.64154,
-			"lng": 35.47958
+			"lat": 31.62984779568389,
+			"lng": 35.487819746093756
 		}
 	}
 }
