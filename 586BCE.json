@@ -424,11 +424,7 @@
   		"startZoom": 3,
   		"endZoom": 9,
   		"type": "region",
-		"rotationDegrees": -20,
-		"curve": {
-			"radiusPixels": 500,
-			"direction": 1
-		}
+		"rotationDegrees": -20
   	},
   	"Arabian Desert": {
   		"positionCoordinate": {
