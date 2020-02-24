@@ -368,12 +368,36 @@
   
   "borders": {
 	"babylonia-586BCE": {
-		"minimumZoomLevel": 3
-	},
-	"egypt-586BCE": {
+		"SWCornerCoordinate": {
+			"lat": 29.423915518278367,
+			"lng": 33.77460341796875
+		},
+		"NECornerCoordinate": {
+			"lat": 38.08148747781649,
+			"lng": 48.768189492187524
+		},
 		"minimumZoomLevel": 3
 	},
 	"media-586BCE": {
+		"SWCornerCoordinate": {
+			"lat": 26.422407762311085,
+			"lng": 36.23279265624999
+		},
+		"NECornerCoordinate": {
+			"lat": 41.55518,
+			"lng": 57.64688
+		},
+		"minimumZoomLevel": 3
+	},
+	"egypt-586BCE": {
+		"SWCornerCoordinate": {
+			"lat": 23.902570451576093,
+			"lng": 26.662691269531262
+		},
+		"NECornerCoordinate": {
+			"lat": 31.62984779568389,
+			"lng": 35.487819746093756
+		},
 		"minimumZoomLevel": 3
 	}
   },
