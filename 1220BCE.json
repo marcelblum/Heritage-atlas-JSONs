@@ -269,13 +269,21 @@
 			"minimumZoomLevel": 5
 		}
 	},
-
-
-
-
-
-
-	"polylineAnimations": [
-		"Phoenician trade route around the Mediterranean 586BCE"
-	]
+  
+  
+  
+  "labels": {
+	"Anshan [Persis]": {"aliasedFrom": "586 BCE"},
+	"Arabian<br>Desert": {"aliasedFrom": "586 BCE"},
+	"Arabian Desert|1": {"aliasedFrom": "586 BCE"},
+	"Arabian Desert|2": {"aliasedFrom": "586 BCE"},
+	"Crete": {"aliasedFrom": "586 BCE"},
+	"Cush": {"aliasedFrom": "586 BCE"},
+	"Edom": {"aliasedFrom": "586 BCE"},
+	"Forest Zone Cultures": {"aliasedFrom": "586 BCE"},
+	"Indo Aryan<br>Peoples": {"aliasedFrom": "586 BCE"},
+	"Moab": {"aliasedFrom": "586 BCE"},
+	"Hunter Gatherers": {"aliasedFrom": "586 BCE"},
+	"Gilead": {"aliasedFrom": "586 BCE"}
+  }
 }

@@ -321,5 +321,34 @@
     "Olympia": {
       "minimumZoomLevel": 7
       }
+  },
+  
+  
+  
+  "labels": {
+	"Ammon": {"aliasedFrom": "586 BCE"},
+	"Anshan [Persis]": {"aliasedFrom": "586 BCE"},
+	"Arabian<br>Desert": {"aliasedFrom": "586 BCE"},
+	"Arabian Desert|1": {"aliasedFrom": "586 BCE"},
+	"Arabian Desert|2": {"aliasedFrom": "586 BCE"},
+	"Celts": {"aliasedFrom": "586 BCE"},
+	"Crete": {"aliasedFrom": "586 BCE"},
+	"Cush": {"aliasedFrom": "586 BCE"},
+	"Damascus": {"aliasedFrom": "586 BCE"},
+	"Edom": {"aliasedFrom": "586 BCE"},
+	"Elam": {"aliasedFrom": "586 BCE"},
+	"Forest Zone Cultures": {"aliasedFrom": "586 BCE"},
+	"Greek City States": {"aliasedFrom": "586 BCE"},
+	"Greeks": {"aliasedFrom": "586 BCE"},
+	"Hallstatt<br>Culture<br>Celts": {"aliasedFrom": "586 BCE"},
+	"Indo Aryan<br>Peoples": {"aliasedFrom": "586 BCE"},
+	"Judah": {"aliasedFrom": "586 BCE"},
+	"Moab": {"aliasedFrom": "586 BCE"},
+	"Samaria": {"aliasedFrom": "586 BCE"},
+	"Thrace": {"aliasedFrom": "586 BCE"},
+	"Megiddo": {"aliasedFrom": "586 BCE"},
+	"Hunter Gatherers": {"aliasedFrom": "586 BCE"},
+	"Gilead": {"aliasedFrom": "586 BCE"},
+	"Greece": {"aliasedFrom": "586 BCE"}
   }
 }
