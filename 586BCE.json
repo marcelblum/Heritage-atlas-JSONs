@@ -483,7 +483,8 @@
         "lat": 52.94364,
         "lng": 41.36717
       },
-      "startZoom": 4
+      "startZoom": 4,
+	  "backgroundHighlight": "lowest"
     },
     "Cappadocia": {
       "type": "region",
@@ -493,7 +494,8 @@
         "lng": 33.05667
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "low"
     },
     "Celts": {
       "type": "region",
@@ -509,11 +511,12 @@
       "size": "medium",
       "rotationDegrees": -31,
       "positionCoordinate": {
-        "lat": 37.02886944696474,
-        "lng": 34.749755859375
+        "lat": 37.05517710666082,
+        "lng": 34.705810546875
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "medium"
     },
     "Crete": {
       "type": "region",
@@ -535,7 +538,8 @@
       },
       "hotspot": true,
       "startZoom": 5,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "high"
     },
     "Cyprus": {
       "type": "region",
@@ -555,7 +559,8 @@
         "lng": 35.92038
       },
       "startZoom": 8,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "low"
     },
     "Edom": {
       "type": "region",
@@ -565,7 +570,8 @@
         "lng": 34.86044
       },
       "startZoom": 8,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "medium"
     },
     "Elam": {
       "type": "region",
@@ -576,7 +582,8 @@
         "lng": 48.14208984375
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "high"
     },
     "Forest Zone Cultures": {
       "type": "region",
@@ -598,7 +605,8 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "anchorPosition": "MIDDLE"
+	  "anchorPosition": "MIDDLE",
+	  "backgroundHighlight": "low"
     },
     "Greeks": {
       "type": "region",
@@ -633,23 +641,39 @@
       "endZoom": 7,
 	  "anchorPosition": "MIDDLE"
     },
-    "Iron Age<br>Peoples": {
+    "Iron Age<br>Peoples|for Africa": {
       "type": "region",
       "size": "largest",
       "positionCoordinate": {
         "lat": 11.7517,
         "lng": -9.25783
       },
-      "startZoom": 4
+      "startZoom": 4,
+	  "backgroundHighlight": "low"
+    },
+    "Iron Age Peoples|for europe": {
+      "type": "region",
+      "size": "largest",
+      "rotationDegrees": -30,
+      "positionCoordinate": {
+        "lat": 44.26093725039922,
+        "lng":  -1.5380859375
+      },
+      "startZoom": 5,
+      "endZoom": 6,
+	  "anchorPosition": "lower left",
+	  "backgroundHighlight": "low"
     },
     "Iron Age Settlements": {
       "type": "region",
       "size": "largest",
+      "rotationDegrees": -25,
       "positionCoordinate": {
-        "lat": 40.313043208880906,
-        "lng": 13.623046875
+        "lat": 45.920587344733654,
+        "lng": 10.986328125
       },
-      "startZoom": 4
+      "startZoom": 4,
+	  "backgroundHighlight": "low"
     },
     "Judah": {
       "type": "region",
@@ -661,7 +685,8 @@
       },
       "hotspot": true,
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "low"
     },
     "Ligurians": {
       "type": "region",
@@ -672,7 +697,8 @@
         "lng": 8.338623046875
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "low"
     },
     "Lydia": {
       "type": "region",
@@ -683,7 +709,8 @@
       },
       "hotspot": true,
       "startZoom": 5,
-      "endZoom": 7
+      "endZoom": 7,
+	  "backgroundHighlight": "medium"
     },
     "Macedon": {
       "type": "region",
@@ -693,15 +720,16 @@
         "lng": 21.33544921875
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "low"
     },
     "Magna<br>Graecia": {
       "type": "region",
       "size": "largest",
       "rotationDegrees": -30,
       "positionCoordinate": {
-        "lat": 39.774769485295465,
-        "lng": 16.50146484375
+        "lat": 39.740986355883564,
+        "lng": 16.54541015625
       },
       "hotspot": true,
       "startZoom": 6,
@@ -726,15 +754,16 @@
         "lng": 51.00833
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "medium"
     },
     "Samaria": {
       "type": "region",
       "size": "small",
-      "rotationDegrees": 22,
+      "rotationDegrees": 21,
       "positionCoordinate": {
-        "lat": 32.10351636222566,
-        "lng": 35.26336669921875
+        "lat": 32.10816944421471,
+        "lng": 35.25787353515625
       },
       "hotspot": true,
       "startZoom": 8,
@@ -749,7 +778,8 @@
         "lng": 46.527099609375
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "high"
     },
     "Thrace": {
       "type": "region",
@@ -759,7 +789,8 @@
         "lng": 24.02201
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "low"
     },
     "Urartu": {
       "type": "region",
@@ -769,7 +800,8 @@
         "lng": 40.71533203125
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "low"
     },
     "Veneti": {
       "type": "region",
@@ -780,14 +812,15 @@
         "lng": 12.5408935546875
       },
       "startZoom": 6,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "low"
     },
     "Philistia": {
       "type": "region",
       "size": "small",
       "rotationDegrees": -54,
       "positionCoordinate": {
-        "lat": 31.48020882071693,
+        "lat": 31.477866449675865,
         "lng": 34.51080322265625
       },
       "hotspot": true,
@@ -799,24 +832,26 @@
       "size": "smallest",
       "rotationDegrees": -69,
       "positionCoordinate": {
-        "lat": 33.58259116393916,
-        "lng": 35.584716796875
+        "lat": 33.5963189611327, 
+        "lng": 35.6396484375
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "anchorPosition": "TOP"
+	  "anchorPosition": "TOP",
+	  "backgroundHighlight": "low"
     },
     "Megiddo": {
       "type": "region",
       "size": "smallest",
       "rotationDegrees": -60,
       "positionCoordinate": {
-        "lat": 32.91879097277371,
-        "lng": 35.650634765625
+        "lat": 32.909568110575655,
+        "lng": 35.6396484375
       },
       "startZoom": 8,
       "endZoom": 9,
-	  "anchorPosition": "RIGHT"
+	  "anchorPosition": "RIGHT",
+	  "backgroundHighlight": "low"
     },
     "Hunter Gatherers": {
       "type": "region",
@@ -838,7 +873,8 @@
         "lng": 35.88409423828125
       },
       "startZoom": 8,
-      "endZoom": 9
+      "endZoom": 9,
+	  "backgroundHighlight": "low"
     },
     "Greece": {
       "type": "region",
@@ -848,15 +884,16 @@
         "lat": 40.56389453066509,
         "lng": 21.29150390625
       },
-      "startZoom": 5
+      "startZoom": 5,
+	  "backgroundHighlight": "low"
     },
     "Etruscans": {
       "type": "region",
       "size": "medium",
       "rotationDegrees": 54,
       "positionCoordinate": {
-        "lat": 43.16512263158295,
-        "lng": 11.5576171875
+        "lat": 43.18114705939967, 
+        "lng": 11.53564453125
       },
       "hotspot": true,
       "startZoom": 6,
