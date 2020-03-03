@@ -631,7 +631,7 @@
       },
       "hotspot": true,
       "startZoom": 4,
-      "endZoom": 7,
+      "endZoom": 9,
       "anchorPosition": "MIDDLE",
       "backgroundHighlight": "low"
     },
@@ -655,7 +655,7 @@
         "lng": -1.5380859375
       },
       "startZoom": 5,
-      "endZoom": 6,
+      "endZoom": 9,
       "anchorPosition": "lower left",
       "backgroundHighlight": "low"
     },
