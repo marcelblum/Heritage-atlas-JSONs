@@ -642,7 +642,8 @@
         "lat": 11.7517,
         "lng": -9.25783
       },
-      "startZoom": 4
+      "startZoom": 4,
+      "endZoom": 7,
       "backgroundHighlight": "low"
     },
     "Iron Age Peoples|for europe": {
