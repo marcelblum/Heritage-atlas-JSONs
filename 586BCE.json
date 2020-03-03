@@ -329,9 +329,6 @@
   
   
   
-  
-  
-  
   "sites": {
     "Beer-sheba": {
       "minimumZoomLevel": 8
@@ -359,11 +356,10 @@
       "minimumZoomLevel": 6
     }
   },
-  
-  
-  
-  
-  
+
+
+
+
   "borders": {
     "babylonia-586BCE": {
       "SWCornerCoordinate": {
@@ -400,17 +396,14 @@
 
 
 
+  "polylineAnimations": [
+    "Phoenician trade route around the Mediterranean 586BCE"
+  ],
 
 
-	"polylineAnimations": [
-		"Phoenician trade route around the Mediterranean 586BCE"
-	],
-  
-  
-  
-  
-  
-  "labels": {
+
+
+"labels": {
     "Ammon": {
       "type": "region",
       "size": "small",
@@ -484,7 +477,7 @@
         "lng": 41.36717
       },
       "startZoom": 4,
-	  "backgroundHighlight": "lowest"
+      "backgroundHighlight": "lowest"
     },
     "Cappadocia": {
       "type": "region",
@@ -495,7 +488,7 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Celts": {
       "type": "region",
@@ -516,7 +509,7 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "medium"
+      "backgroundHighlight": "medium"
     },
     "Crete": {
       "type": "region",
@@ -527,7 +520,7 @@
       },
       "startZoom": 7,
       "endZoom": 9,
-	  "anchorPosition": "MIDDLE"
+      "anchorPosition": "MIDDLE"
     },
     "Cush": {
       "type": "region",
@@ -539,7 +532,7 @@
       "hotspot": true,
       "startZoom": 5,
       "endZoom": 9,
-	  "backgroundHighlight": "high"
+      "backgroundHighlight": "high"
     },
     "Cyprus": {
       "type": "region",
@@ -560,7 +553,7 @@
       },
       "startZoom": 8,
       "endZoom": 9,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Edom": {
       "type": "region",
@@ -571,26 +564,26 @@
       },
       "startZoom": 8,
       "endZoom": 9,
-	  "backgroundHighlight": "medium"
+      "backgroundHighlight": "medium"
     },
     "Elam": {
       "type": "region",
       "size": "medium",
       "rotationDegrees": -15,
       "positionCoordinate": {
-        "lat": 32.505129231918936, 
+        "lat": 32.505129231918936,
         "lng": 48.14208984375
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "high"
+      "backgroundHighlight": "high"
     },
     "Forest Zone Cultures": {
       "type": "region",
       "size": "largest",
       "rotationDegrees": -30,
       "positionCoordinate": {
-        "lat": 56.30434864830831, 
+        "lat": 56.30434864830831,
         "lng": 30.25634765625
       },
       "startZoom": 5,
@@ -605,15 +598,15 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "anchorPosition": "MIDDLE",
-	  "backgroundHighlight": "low"
+      "anchorPosition": "MIDDLE",
+      "backgroundHighlight": "low"
     },
     "Greeks": {
       "type": "region",
       "size": "large",
       "rotationDegrees": 50,
       "positionCoordinate": {
-        "lat": 37.47485808497102, 
+        "lat": 37.47485808497102,
         "lng": 23.0712890625
       },
       "startZoom": 4
@@ -627,7 +620,7 @@
       },
       "startZoom": 5,
       "endZoom": 9,
-	  "anchorPosition": "MIDDLE"
+      "anchorPosition": "MIDDLE"
     },
     "Indo Aryan<br>Peoples": {
       "type": "region",
@@ -639,7 +632,8 @@
       "hotspot": true,
       "startZoom": 4,
       "endZoom": 7,
-	  "anchorPosition": "MIDDLE"
+      "anchorPosition": "MIDDLE",
+      "backgroundHighlight": "low"
     },
     "Iron Age<br>Peoples|for Africa": {
       "type": "region",
@@ -649,7 +643,7 @@
         "lng": -9.25783
       },
       "startZoom": 4,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Iron Age Peoples|for europe": {
       "type": "region",
@@ -657,12 +651,12 @@
       "rotationDegrees": -30,
       "positionCoordinate": {
         "lat": 44.26093725039922,
-        "lng":  -1.5380859375
+        "lng": -1.5380859375
       },
       "startZoom": 5,
       "endZoom": 6,
-	  "anchorPosition": "lower left",
-	  "backgroundHighlight": "low"
+      "anchorPosition": "lower left",
+      "backgroundHighlight": "low"
     },
     "Iron Age Settlements": {
       "type": "region",
@@ -673,7 +667,7 @@
         "lng": 10.986328125
       },
       "startZoom": 4,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Judah": {
       "type": "region",
@@ -686,7 +680,7 @@
       "hotspot": true,
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Ligurians": {
       "type": "region",
@@ -698,7 +692,7 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Lydia": {
       "type": "region",
@@ -710,7 +704,7 @@
       "hotspot": true,
       "startZoom": 5,
       "endZoom": 7,
-	  "backgroundHighlight": "medium"
+      "backgroundHighlight": "medium"
     },
     "Macedon": {
       "type": "region",
@@ -721,7 +715,7 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Magna<br>Graecia": {
       "type": "region",
@@ -734,7 +728,7 @@
       "hotspot": true,
       "startZoom": 6,
       "endZoom": 9,
-	  "anchorPosition": "BOTTOM_RIGHT"
+      "anchorPosition": "BOTTOM_RIGHT"
     },
     "Moab": {
       "type": "region",
@@ -755,7 +749,7 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "medium"
+      "backgroundHighlight": "medium"
     },
     "Samaria": {
       "type": "region",
@@ -779,7 +773,7 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "high"
+      "backgroundHighlight": "high"
     },
     "Thrace": {
       "type": "region",
@@ -790,7 +784,7 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Urartu": {
       "type": "region",
@@ -801,7 +795,7 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Veneti": {
       "type": "region",
@@ -813,7 +807,7 @@
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Philistia": {
       "type": "region",
@@ -832,13 +826,13 @@
       "size": "smallest",
       "rotationDegrees": -69,
       "positionCoordinate": {
-        "lat": 33.5963189611327, 
+        "lat": 33.5963189611327,
         "lng": 35.6396484375
       },
       "startZoom": 6,
       "endZoom": 9,
-	  "anchorPosition": "TOP",
-	  "backgroundHighlight": "low"
+      "anchorPosition": "TOP",
+      "backgroundHighlight": "low"
     },
     "Megiddo": {
       "type": "region",
@@ -850,8 +844,8 @@
       },
       "startZoom": 8,
       "endZoom": 9,
-	  "anchorPosition": "RIGHT",
-	  "backgroundHighlight": "low"
+      "anchorPosition": "RIGHT",
+      "backgroundHighlight": "low"
     },
     "Hunter Gatherers": {
       "type": "region",
@@ -874,7 +868,7 @@
       },
       "startZoom": 8,
       "endZoom": 9,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Greece": {
       "type": "region",
@@ -885,23 +879,21 @@
         "lng": 21.29150390625
       },
       "startZoom": 5,
-	  "backgroundHighlight": "low"
+      "backgroundHighlight": "low"
     },
     "Etruscans": {
       "type": "region",
       "size": "medium",
       "rotationDegrees": 54,
       "positionCoordinate": {
-        "lat": 43.18114705939967, 
+        "lat": 43.18114705939967,
         "lng": 11.53564453125
       },
       "hotspot": true,
       "startZoom": 6,
       "endZoom": 9,
-	  "anchorPosition": "TOP"
-    },	
-	
-	
+      "anchorPosition": "TOP"
+    },
     "Eastern<br>Zhou<br>Dynasty": {
       "type": "empire",
       "size": "largest",
@@ -912,7 +904,163 @@
       "hotspot": true,
       "startZoom": 4,
       "endZoom": 6,
-	  "anchorPosition": "MIDDLE"
+      "anchorPosition": "MIDDLE"
+    },
+	
+	
+    "Egypt|zoom4 only": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 27.332735136859146,
+        "lng": 32.34375
+      },
+      "hotspot": true,
+      "startZoom": 4,
+      "curve": {
+        "radiusPixels": 500,
+        "direction": 1
+      },
+      "rotationDegrees": 70
+    },
+	"Egypt|all other zooms": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 26.49024045886963,
+        "lng": 32.5634765625
+      },
+      "hotspot": true,
+      "startZoom": 5,
+      "endZoom": 9,
+      "curve": {
+        "radiusPixels": 500,
+        "direction": 1
+      },
+      "rotationDegrees": 53,
+	  "letterSpacingOverride": 15
+    },
+    "Babylonia": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 34.05265942137599,
+        "lng": 41.044921875
+      },
+      "startZoom": 4,
+      "curve": {
+        "radiusPixels": 150,
+        "direction": 1
+      },
+      "rotationDegrees": 25
+    },
+    "Babylonian Empire": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 33.94335994657882,
+        "lng": 42.86865234375
+      },
+      "hotspot": true,
+      "startZoom": 5,
+      "endZoom": 7,
+      "curve": {
+        "radiusPixels": 300,
+        "direction": 1
+      },
+      "rotationDegrees": 35,
+	  "letterSpacingOverride": 7
+    },
+    "Babylonian Empire|a": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 33.364943593285545,
+        "lng": 37.0294189453125
+      },
+      "hotspot": true,
+      "startZoom": 8,
+      "endZoom": 9,
+      "curve": {
+        "radiusPixels": 500,
+        "direction": 1
+      },
+      "rotationDegrees": -51,
+	  "letterSpacingOverride": 8
+    },
+    "Babylonian Empire|b": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 34.19590137180652,
+        "lng": 43.6212158203125
+      },
+      "hotspot": true,
+      "startZoom": 8,
+      "endZoom": 9,
+      "curve": {
+        "radiusPixels": 500,
+        "direction": 1
+      },
+      "rotationDegrees": 35
+    },
+    "Media": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 35.92464453144099,
+        "lng": 49.482421875
+      },
+      "startZoom": 4,
+      "curve": {
+        "radiusPixels": 500,
+        "direction": 1
+      }
+    },
+    "Median Empire": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 35.99578538642032,
+        "lng": 47.548828125
+      },
+      "startZoom": 5,
+      "endZoom": 7,
+      "curve": {
+        "radiusPixels": 500,
+        "direction": 1
+      },
+      "rotationDegrees": 35
+    },
+    "Median Empire|a": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 39.482845404533336,
+        "lng": 40.2978515625
+      },
+      "startZoom": 8,
+      "endZoom": 9,
+      "curve": {
+        "radiusPixels": 500,
+        "direction": 1
+      },
+      "rotationDegrees": 15
+    },
+    "Median Empire|b": {
+      "type": "empire",
+      "size": "largest",
+      "positionCoordinate": {
+        "lat": 33.988918483762156,
+        "lng": 49.383544921875
+      },
+      "startZoom": 8,
+      "endZoom": 9,
+      "curve": {
+        "radiusPixels": 500,
+        "direction": -1
+      },
+      "rotationDegrees": 24
     }
   }
 }
