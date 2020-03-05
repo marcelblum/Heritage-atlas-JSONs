@@ -77,6 +77,9 @@
       "hotspot": true,
       "minimumZoomLevel": 5
     },
+    "Chalcis": {
+      "minimumZoomLevel": 7
+    },
     "Chios": {
       "minimumZoomLevel": 6
     },
