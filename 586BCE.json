@@ -616,19 +616,6 @@
       "startZoom": 5,
       "endZoom": 9
     },
-    "Greek City States|zoom9b": {
-      "type": "region",
-      "size": "430%",
-      "positionCoordinate": {
-        "lat": 37.24235513328302,
-        "lng": 24.927978515625
-      },
-      "startZoom": 9,
-      "anchorPosition": "MIDDLE",
-      "backgroundHighlight": "low",
-	  "letterSpacingOverride": 80,
-      "rotationDegrees": 8
-    },
     "Greek City States|zoom9a": {
       "type": "region",
       "size": "430%",
@@ -1136,7 +1123,8 @@
         "radiusPixels": 500,
         "direction": 1
       },
-      "rotationDegrees": 15
+      "rotationDegrees": -15,
+	  "letterSpacingOverride": 30
     },
     "Median Empire|b": {
       "type": "empire",
