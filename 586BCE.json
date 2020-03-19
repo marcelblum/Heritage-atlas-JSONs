@@ -363,7 +363,7 @@
 
 
 
-  "borders": {
+  "SVGs": {
     "babylonia-586BCE": {
       "SWCornerCoordinate": {
         "lat": 29.423915518278367,
@@ -393,6 +393,17 @@
         "lat": 31.62984779568389,
         "lng": 35.487819746093756
       }
+    },
+    "flickeringfire-js|Jerusalem fire": {
+	  "useObjectElement": true,
+      "SWCornerCoordinate": {
+        "lat": 31.752431893007266,
+        "lng": 35.11956708984374
+      },
+      "NECornerCoordinate": {
+        "lat": 31.89012381278111,
+        "lng": 35.30908124999999
+      }
     }
   },
 
@@ -400,7 +411,7 @@
 
 
   "polylineAnimations": [
-    "Phoenician trade route around the Mediterranean 586BCE"
+    "Phoenician trade route around the Mediterranean 722-586BCE"
   ],
   
   
@@ -471,7 +482,7 @@
 
 
 
-"labels": {
+"labels": {	
     "Ammon": {
       "type": "region",
       "size": "small",
