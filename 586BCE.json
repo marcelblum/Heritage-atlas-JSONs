@@ -733,18 +733,63 @@
       "startZoom": 4,
       "backgroundHighlight": "low"
     },
-    "Judah": {
+    "Judah|zoom6": {
       "type": "region",
-      "size": "small",
-      "rotationDegrees": -20,
+      "size": "smallest",
+      "rotationDegrees": -35,
       "positionCoordinate": {
-        "lat": 31.069403366864112,
-        "lng": 34.869232177734375
+        "lat": 31.30671515507517,
+        "lng": 34.903564453125
       },
       "hotspot": true,
       "startZoom": 6,
-      "endZoom": 9,
-      "backgroundHighlight": "low"
+      "backgroundHighlight": "high"
+    },
+    "Judah|zoom7": {
+      "type": "region",
+      "size": "small",
+      "rotationDegrees": -35,
+      "positionCoordinate": {
+        "lat": 31.30671515507517,
+        "lng": 34.903564453125
+      },
+      "hotspot": true,
+      "startZoom": 7,
+      "backgroundHighlight": "high"
+    },
+    "Judah|curved for zoom8": {
+      "type": "region",
+      "size": "small",
+      "rotationDegrees": -52,
+      "positionCoordinate": {
+        "lat": 31.393502061653898,
+        "lng": 35.068359375
+      },
+      "hotspot": true,
+      "startZoom": 8,
+      "curve": {
+        "radiusPixels": 180,
+        "direction": -1
+      },
+	  "letterSpacingOverride": 39,
+      "backgroundHighlight": "high"
+    },
+    "Judah|curved for zoom9": {
+      "type": "region",
+      "size": "small",
+      "rotationDegrees": -50,
+      "positionCoordinate": {
+        "lat": 31.495432803134843,
+        "lng": 35.167236328125
+      },
+      "hotspot": true,
+      "startZoom": 9,
+      "curve": {
+        "radiusPixels": 300,
+        "direction": -1
+      },
+	  "letterSpacingOverride": 49,
+      "backgroundHighlight": "high"
     },
     "Ligurians": {
       "type": "region",
