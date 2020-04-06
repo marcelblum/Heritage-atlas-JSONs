@@ -1,247 +1,247 @@
 {
-  "cities": {
-    "Ancyra": {
-      "minimumZoomLevel": 6
-    },
-    "Akko": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Aphek": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Arad": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Arvad": {
-      "minimumZoomLevel": 6
-    },
-    "Argos": {
-      "minimumZoomLevel": 7
-    },
-    "Ashkelon": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Assur": {
-      "minimumZoomLevel": 5
-    },
-    "Azekah": {
-      "minimumZoomLevel": 9
-    },
-    "Babylon": {
-      "minimumZoomLevel": 5
-    },
-    "Beit El": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Beit She’an": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Bethlehem": {
-      "minimumZoomLevel": 8
-    },
-    "Carchemish": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Corinth": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Damascus": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Dan": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Dor": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Ekron": {
-      "hotspot": true,
-      "minimumZoomLevel": 9
-    },
-    "Elath": {
-      "minimumZoomLevel": 6
-    },
-    "Enkomi": {
-      "minimumZoomLevel": 6
-    },
-    "Eridu": {
-      "minimumZoomLevel": 6
-    },
-    "Gaza": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Gebal": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Gezer": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Gordion": {
-      "minimumZoomLevel": 6
-    },
-    "Halab": {
-      "minimumZoomLevel": 6
-    },
-    "Hamath": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Haran": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Hazor": {
-      "minimumZoomLevel": 8
-    },
-    "Hebron": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Jerusalem": {
-      "hotspot": true,
-      "minimumZoomLevel": 5
-    },
-    "Joppa": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Kadesh-Barnea": {
-      "minimumZoomLevel": 8
-    },
-    "Kanish": {
-      "minimumZoomLevel": 6
-    },
-    "Kedesh": {
-      "minimumZoomLevel": 8
-    },
-    "Kir-Moab": {
-      "minimumZoomLevel": 8
-    },
-    "Kition": {
-      "minimumZoomLevel": 6
-    },
-    "Lachish": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Lefkandi": {
-      "minimumZoomLevel": 6
-    },
-    "Lipari": {
-      "minimumZoomLevel": 6
-    },
-    "Mareshah": {
-      "minimumZoomLevel": 8
-    },
-    "Megiddo": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Nineveh": {
-      "minimumZoomLevel": 6
-    },
-    "Nippur": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "No-Amon": {
-      "minimumZoomLevel": 5
-    },
-    "Noph": {
-      "minimumZoomLevel": 5
-    },
-    "Rabbath-Ammon": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Ramoth-Gilead": {
-      "minimumZoomLevel": 8
-    },
-    "Shechem": {
-      "hotspot": true,
-      "minimumZoomLevel": 5
-    },
-    "Sidon": {
-      "hotspot": true,
-      "minimumZoomLevel": 5
-    },
-    "Sippar": {
-      "minimumZoomLevel": 6
-    },
-    "Susa": {
-      "minimumZoomLevel": 5
-    },
-    "Syene": {
-      "minimumZoomLevel": 6
-    },
-    "Tanis": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Tell el-Hesi": {
-      "minimumZoomLevel": 9
-    },
-    "Tharros": {
-      "minimumZoomLevel": 6
-    },
-    "Thasos": {
-      "minimumZoomLevel": 6
-    },
-    "Tirzah": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "Tyre": {
-      "hotspot": true,
-      "minimumZoomLevel": 5
-    },
-    "Ur": {
-      "minimumZoomLevel": 6
-    },
-    "Uruk": {
-      "minimumZoomLevel": 6
-    }
-  },
-  
-  
-  
-  
-  
-  "sites": {
-    "Beer-sheba": {
-      "hotspot": true,
-      "minimumZoomLevel": 8
-    },
-    "El Fayyum": {
-      "hotspot": true,
-      "minimumZoomLevel": 6
-    },
-    "Stonehenge": {
-      "hotspot": true,
-      "minimumZoomLevel": 5
-    },
-    "Giza": {
-      "minimumZoomLevel": 6
-    }
-  },
-  
-  
-  
-  "jewishView": {
+	"cities": {
+		"Ancyra": {
+			"minimumZoomLevel": 6
+		},
+		"Akko": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Aphek": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Arad": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Arvad": {
+			"minimumZoomLevel": 6
+		},
+		"Argos": {
+			"minimumZoomLevel": 7
+		},
+		"Ashkelon": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Assur": {
+			"minimumZoomLevel": 5
+		},
+		"Azekah": {
+			"minimumZoomLevel": 9
+		},
+		"Babylon": {
+			"minimumZoomLevel": 5
+		},
+		"Beit El": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Beit She’an": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Bethlehem": {
+			"minimumZoomLevel": 8
+		},
+		"Carchemish": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Corinth": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Damascus": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Dan": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Dor": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Ekron": {
+			"hotspot": true,
+			"minimumZoomLevel": 9
+		},
+		"Elath": {
+			"minimumZoomLevel": 6
+		},
+		"Enkomi": {
+			"minimumZoomLevel": 6
+		},
+		"Eridu": {
+			"minimumZoomLevel": 6
+		},
+		"Gaza": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Gebal": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Gezer": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Gordion": {
+			"minimumZoomLevel": 6
+		},
+		"Halab": {
+			"minimumZoomLevel": 6
+		},
+		"Hamath": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Haran": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Hazor": {
+			"minimumZoomLevel": 8
+		},
+		"Hebron": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Jerusalem": {
+			"hotspot": true,
+			"minimumZoomLevel": 5
+		},
+		"Joppa": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Kadesh-Barnea": {
+			"minimumZoomLevel": 8
+		},
+		"Kanish": {
+			"minimumZoomLevel": 6
+		},
+		"Kedesh": {
+			"minimumZoomLevel": 8
+		},
+		"Kir-Moab": {
+			"minimumZoomLevel": 8
+		},
+		"Kition": {
+			"minimumZoomLevel": 6
+		},
+		"Lachish": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Lefkandi": {
+			"minimumZoomLevel": 6
+		},
+		"Lipari": {
+			"minimumZoomLevel": 6
+		},
+		"Mareshah": {
+			"minimumZoomLevel": 8
+		},
+		"Megiddo": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Nineveh": {
+			"minimumZoomLevel": 6
+		},
+		"Nippur": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"No-Amon": {
+			"minimumZoomLevel": 5
+		},
+		"Noph": {
+			"minimumZoomLevel": 5
+		},
+		"Rabbath-Ammon": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Ramoth-Gilead": {
+			"minimumZoomLevel": 8
+		},
+		"Shechem": {
+			"hotspot": true,
+			"minimumZoomLevel": 5
+		},
+		"Sidon": {
+			"hotspot": true,
+			"minimumZoomLevel": 5
+		},
+		"Sippar": {
+			"minimumZoomLevel": 6
+		},
+		"Susa": {
+			"minimumZoomLevel": 5
+		},
+		"Syene": {
+			"minimumZoomLevel": 6
+		},
+		"Tanis": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Tell el-Hesi": {
+			"minimumZoomLevel": 9
+		},
+		"Tharros": {
+			"minimumZoomLevel": 6
+		},
+		"Thasos": {
+			"minimumZoomLevel": 6
+		},
+		"Tirzah": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"Tyre": {
+			"hotspot": true,
+			"minimumZoomLevel": 5
+		},
+		"Ur": {
+			"minimumZoomLevel": 6
+		},
+		"Uruk": {
+			"minimumZoomLevel": 6
+		}
+	},
+
+
+
+
+
+	"sites": {
+		"Beer-sheba": {
+			"hotspot": true,
+			"minimumZoomLevel": 8
+		},
+		"El Fayyum": {
+			"hotspot": true,
+			"minimumZoomLevel": 6
+		},
+		"Stonehenge": {
+			"hotspot": true,
+			"minimumZoomLevel": 5
+		},
+		"Giza": {
+			"minimumZoomLevel": 6
+		}
+	},
+
+
+
+	"jewishView": {
 	"targetCenterGeolocation": {
 		"lat": 31.29037360656461,
 		"lng": 35.40919498725574
@@ -250,38 +250,41 @@
 	"easternHemisphereCutoutPolygons": [
 		[{"lat": 31.930118, "lng": 34.673725}, {"lat": 32.097797, "lng": 34.739643}, {"lat": 32.376579, "lng": 34.824787}, {"lat": 32.649879, "lng": 34.890705}, {"lat": 32.813921, "lng": 34.93465}, {"lat": 32.853154, "lng": 34.95937}, {"lat": 32.839309, "lng": 35.036274}, {"lat": 32.887756, "lng": 35.060993}, {"lat": 32.950007, "lng": 35.066486}, {"lat": 33.021427, "lng": 35.088459}, {"lat": 33.078981, "lng": 35.135151}, {"lat": 33.228906, "lng": 35.298025}, {"lat": 33.279436, "lng": 35.479299}, {"lat": 33.306985, "lng": 35.693533}, {"lat": 33.180645, "lng": 35.737478}, {"lat": 33.033402, "lng": 35.76769}, {"lat": 32.830091, "lng": 35.875876}, {"lat": 32.612883, "lng": 35.873129}, {"lat": 32.365151, "lng": 35.875876}, {"lat": 32.118906, "lng": 35.906088}, {"lat": 31.584655, "lng": 35.881369}, {"lat": 31.523802, "lng": 35.853903}, {"lat": 31.448852, "lng": 35.812704}, {"lat": 31.441822, "lng": 35.680868}, {"lat": 31.455881, "lng": 35.543539}, {"lat": 31.640791, "lng": 35.554525}, {"lat": 31.736612, "lng": 35.551779}, {"lat": 31.741284, "lng": 35.516073}, {"lat": 31.696894, "lng": 35.488607}, {"lat": 31.54253, "lng": 35.42269}, {"lat": 31.437136, "lng": 35.41525}, {"lat": 31.352734, "lng": 35.445463}, {"lat": 31.209549, "lng": 35.385038}, {"lat": 31.073203, "lng": 35.40701}, {"lat": 30.952583, "lng": 35.403348}, {"lat": 30.956117, "lng": 35.455533}, {"lat": 30.88543, "lng": 35.482999}, {"lat": 30.592703, "lng": 35.504971}, {"lat": 30.265885, "lng": 35.367642}, {"lat": 29.918933, "lng": 35.241299}, {"lat": 29.499077, "lng": 35.076504}, {"lat": 29.460821, "lng": 34.939175}, {"lat": 29.537318, "lng": 34.89523}, {"lat": 29.7903, "lng": 34.961148}, {"lat": 30.137702, "lng": 35.087491}, {"lat": 30.474418, "lng": 35.169888}, {"lat": 30.758061, "lng": 34.900723}, {"lat": 31.059696, "lng": 34.746915}, {"lat": 31.387627, "lng": 34.780916}, {"lat": 31.607766, "lng": 34.797396}, {"lat": 31.762021, "lng": 34.758944}, {"lat": 31.906694, "lng": 34.676546}]
 	]
-  },
+	},
 
 
 
 
-  "polylineAnimations": [
-    "Med trade route #1 928BCE",
-    "Med trade route #2 928BCE"
-  ],
-  
-  
-  
-  "labels": {
-	"Anshan [Persis]": {"aliasedFrom": "586 BCE"},
-	"Arabian<br>Desert": {"aliasedFrom": "586 BCE"},
-	"Arabian Desert|1": {"aliasedFrom": "586 BCE"},
-	"Arabian Desert|2": {"aliasedFrom": "586 BCE"},
-	"Celts": {"aliasedFrom": "586 BCE"},
-	"Crete": {"aliasedFrom": "586 BCE"},
-	"Cush": {"aliasedFrom": "586 BCE"},
-	"Edom": {"aliasedFrom": "586 BCE"},
-	"Elam": {"aliasedFrom": "586 BCE"},
-	"Forest Zone Cultures": {"aliasedFrom": "586 BCE"},
-	"Greeks": {"aliasedFrom": "586 BCE"},
-	"Indo Aryan<br>Peoples": {"aliasedFrom": "586 BCE"},
-	"Judah|zoom6": {"aliasedFrom": "586 BCE"},
-	"Judah|zoom7": {"aliasedFrom": "586 BCE"},
-	"Judah|curved for zoom8": {"aliasedFrom": "586 BCE"},
-	"Judah|curved for zoom9": {"aliasedFrom": "586 BCE"},
-	"Moab": {"aliasedFrom": "586 BCE"},
-	"Hunter Gatherers": {"aliasedFrom": "586 BCE"},
-	"Gilead": {"aliasedFrom": "586 BCE"},
-	"Greece": {"aliasedFrom": "586 BCE"}
-  }
+	"polylineAnimations": [
+		"Med trade route #1 928BCE",
+		"Med trade route #2 928BCE"
+	],
+
+
+
+	"labels": {
+		"Anshan [Persis]": {"aliasedFrom": "586 BCE"},
+		"Arabian<br>Desert": {"aliasedFrom": "586 BCE"},
+		"Arabian Desert|1": {"aliasedFrom": "586 BCE"},
+		"Arabian Desert|2": {"aliasedFrom": "586 BCE"},
+		"Celts": {"aliasedFrom": "586 BCE"},
+		"Crete": {"aliasedFrom": "586 BCE"},
+		"Cush": {"aliasedFrom": "586 BCE"},
+		"Edom": {"aliasedFrom": "586 BCE"},
+		"Elam": {"aliasedFrom": "586 BCE"},
+		"Forest Zone Cultures": {"aliasedFrom": "586 BCE"},
+		"Gilead": {"aliasedFrom": "586 BCE"},
+		"Greece": {"aliasedFrom": "586 BCE"},
+		"Greeks": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers": {"aliasedFrom": "586 BCE"},
+		"Indo Aryan<br>Peoples": {"aliasedFrom": "586 BCE"},
+		"Judah|zoom6": {"aliasedFrom": "586 BCE"},
+		"Judah|zoom7": {"aliasedFrom": "586 BCE"},
+		"Judah|curved for zoom8": {"aliasedFrom": "586 BCE"},
+		"Judah|curved for zoom9": {"aliasedFrom": "586 BCE"},
+		"Moab": {"aliasedFrom": "586 BCE"},
+		"Farming<br>Tribes": {"aliasedFrom": "1200 BCE"},
+		"Illyrians": {"aliasedFrom": "1200 BCE"},
+		"Thracians": {"aliasedFrom": "1200 BCE"}
+	}
 }
