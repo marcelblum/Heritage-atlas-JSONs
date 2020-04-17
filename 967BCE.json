@@ -295,11 +295,696 @@
 		"Gilead": {"aliasedFrom": "586 BCE"},
 		"Greece": {"aliasedFrom": "586 BCE"},
 		"Greeks": {"aliasedFrom": "586 BCE"},
-		"Hunter Gatherers": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(zoom:4)": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(zoom:5-6)": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(a)": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(b)": {"aliasedFrom": "586 BCE"},
 		"Indo Aryan<br>Peoples": {"aliasedFrom": "586 BCE"},
 		"Moab": {"aliasedFrom": "586 BCE"},
+		"Egypt|(zoom:4)": {"aliasedFrom": "586 BCE"},
 		"Farming<br>Tribes": {"aliasedFrom": "1200 BCE"},
 		"Illyrians": {"aliasedFrom": "1200 BCE"},
-		"Thracians": {"aliasedFrom": "1200 BCE"}
+		"Nuraghic<br>Bronze<br>Age<br>Peoples": {"aliasedFrom": "1200 BCE"},
+		"Thracians": {"aliasedFrom": "1200 BCE"},
+		"Adriatic Cultures": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 42.48830197960228,
+				"lng": 13.86474609375
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees": 45
+		},
+		"Ammon": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 32.01972036197234,
+				"lng": 35.9857177734375
+			},
+			"hotspot": true,
+			"startZoom": 8,
+			"endZoom": 9
+		},
+		"Andalusian<br>Culture": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 37.61423141542417,
+				"lng": -4.6142578125
+			},
+			"hotspot": true,
+			"startZoom": 5,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE",
+			"backgroundHighlight": "lowest"
+		},
+		"Aram Damascus": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 33.578014746143985,
+				"lng": 35.826416015625
+			},
+			"hotspot": true,
+			"startZoom": 8,
+			"endZoom": 9
+		},
+		"Aramaeans|(zoom:5)": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 35.24561909420681,
+				"lng": 40.0341796875
+			},
+			"hotspot": true,
+			"startZoom": 5,
+			"anchorPosition": "MIDDLE"
+		},
+		"Aramaeans|(zoom:6)": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 35.24561909420681,
+				"lng": 40.0341796875
+			},
+			"hotspot": true,
+			"startZoom": 6,
+			"anchorPosition": "MIDDLE"
+		},
+		"Aramaeans|(zoom:7)": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 35.285984736065764,
+				"lng": 40.25390625
+			},
+			"hotspot": true,
+			"startZoom": 7,
+			"anchorPosition": "MIDDLE",
+			"letterSpacingOverride": 28
+		},
+		"Aramaeans|(a)": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 35.43605776486772,
+				"lng": 43.0169677734375
+			},
+			"hotspot": true,
+			"startZoom": 8,
+			"endZoom": 9,
+			"anchorPosition": "RIGHT",
+			"letterSpacingOverride": 28
+		},
+		"Aramaeans|(b)": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 35.0367432201753,
+				"lng": 38.09234619140625
+			},
+			"hotspot": true,
+			"startZoom": 8,
+			"endZoom": 9,
+			"rotationDegrees": -15,
+			"letterSpacingOverride": 28
+		},
+		"Asher": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 33.10994829789429,
+				"lng": 35.253753662109375
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"rotationDegrees": -60
+		},
+		"Babylonia": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 31.95216223802497,
+				"lng": 45.98876953125
+			},
+			"hotspot": true,
+			"startZoom": 5,
+			"endZoom": 9,
+			"rotationDegrees": 45,
+			"anchorPosition": "BOTTOM"
+		},
+		"Baltic Cultures": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 58.321029869251966,
+				"lng": 24.78515625
+			},
+			"hotspot": true,
+			"startZoom": 5,
+			"endZoom": 9,
+			"rotationDegrees": -20,
+			"anchorPosition": "BOTTOM LEFT",
+			"backgroundHighlight": "lowest"
+		},
+		"Benjamin": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 31.879889952523502,
+				"lng": 35.255126953125
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"rotationDegrees": -5,
+			"letterSpacingOverride": 2
+		},
+		"Bronze & Iron Age Peoples|(Eur)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 45.9511496866914,
+				"lng": 11.42578125
+			},
+			"startZoom": 4,
+			"rotationDegrees": -20
+		},
+		"Bronze Age<br>Nomadic Peoples": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 48.77791275550184,
+				"lng": 52.55859375
+			},
+			"hotspot": true,
+			"startZoom": 4,
+			"endZoom": 5
+		},
+		"Dan|(a)": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 33.27084277265288,
+				"lng": 35.48309326171875
+			},
+			"hotspot": true,
+			"startZoom": 9
+		},
+		"Dan|(b)": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 31.78655155361397,
+				"lng": 34.80194091796875
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"letterSpacingOverride": 2
+		},
+		"Early Greek<br>City States": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 38.04809106745723,
+				"lng": 22.7197265625
+			},
+			"hotspot": true,
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees": 16,
+			"anchorPosition": "BOTTOM",
+			"letterSpacingOverride": 8,
+			"backgroundHighlight": "lowest"
+		},
+		"Ephraim": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 32.001088607540446,
+				"lng": 35.26611328125
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"anchorPosition": "RIGHT",
+			"letterSpacingOverride": 1
+		},
+		"Epirus": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 39.85915479295669,
+				"lng": 20.357666015625
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees":55,
+			"anchorPosition": "BOTTOM",
+			"backgroundHighlight": "low"
+		},
+		"Gad": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 31.931185811406294,
+				"lng": 35.56549072265625
+			},
+			"hotspot": true,
+			"startZoom": 8,
+			"endZoom": 9
+		},
+		"Geshur": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 32.98088,
+				"lng": 35.77182
+			},
+			"startZoom": 8,
+			"endZoom": 9
+		},
+		"Golasecca<br>Culture": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 45.07352060670971,
+				"lng": 8.668212890625
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees": -28,
+			"backgroundHighlight": "lowest"
+		},
+		"Iron Age Peoples|(Greece / Anatolia)": {
+			"type": "region",
+			"size": "large",
+			"positionCoordinate": {
+				"lat": 40.780541431860335,
+				"lng": 22.8955078125
+			},
+			"startZoom": 5,
+			"backgroundHighlight": "low"
+		},
+		"Issachar": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 32.65093836175736,
+				"lng": 35.48309326171875
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"rotationDegrees": -71,
+			"letterSpacingOverride": 0
+		},
+		"Judah": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 31.658057274089913,
+				"lng": 35.13153076171875
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"anchorPosition": "TOP",
+			"letterSpacingOverride": 1
+		},
+		"Late Bronze Age and Iron Age Peoples|(Eur)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 48.922499263758255,
+				"lng": 10.634765625
+			},
+			"startZoom": 5,
+			"rotationDegrees": -10,
+			"anchorPosition": "BOTTOM",
+			"letterSpacingOverride": 3
+		},
+		"Late Bronze Age and<br>Iron Age Peoples|(N.Afr)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 34.994003757575776,
+				"lng": 2.5048828125
+			},
+			"startZoom": 5,
+			"endZoom": 9,
+			"anchorPosition": "TOP"
+		},
+		"Late<br>Bronze Age<br>Peoples|(Brit Isles)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 54.729378425601766,
+				"lng": -4.843597412109375
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"anchorPosition": "RIGHT TOP"
+		},
+		"Late<br>Bronze Age<br>Peoples|(France)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 47.754097979680026,
+				"lng": -0.7470703125
+			},
+			"startZoom": 6,
+			"endZoom": 9
+		},
+		"Late<br>Bronze Age<br>Peoples|(Iberia)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 40.27952566881291,
+				"lng": -4.361572265625
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE"
+		},
+		"Late Bronze Age<br>and Early Iron Age<br>Peoples|(E.Eur)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 46.21785176740299,
+				"lng": 24.169921875
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE"
+		},
+		"Lusatian<BR>Culture": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 52.986683840958655,
+				"lng": 15.0238037109375
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees": 32,
+			"backgroundHighlight": "low"
+		},
+		"Manasseh": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 32.36372329228304,
+				"lng": 35.22216796875
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"anchorPosition": "MIDDLE",
+			"letterSpacingOverride": 2
+		},
+		"Naphtali": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 32.941843923502645,
+				"lng": 35.321044921875
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"rotationDegrees": -60,
+			"letterSpacingOverride": 1
+		},
+		"Nomadic Peoples": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 48.210032122340415,
+				"lng": 36.3482666015625
+			},
+			"hotspot": true,
+			"startZoom": 5,
+			"endZoom": 9
+		},
+		"Nordic<br>Bronze Age<br>Peoples": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 55.98609153380839,
+				"lng": 12.052001953125
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE"
+		},
+		"Philistia|(zoom:8)": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 31.58087527398547,
+				"lng": 34.62890625
+			},
+			"hotspot": true,
+			"startZoom": 8,
+			"rotationDegrees": -58,
+			"letterSpacingOverride": 0
+		},
+		"Philistia|(zoom:9)": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 31.695455797778713,
+				"lng": 34.679718017578125
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"rotationDegrees": -58,
+			"letterSpacingOverride": 2
+		},
+		"Phoenicia|(zoom:8)": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 33.73119253613478,
+				"lng": 35.59295654296875
+			},
+			"hotspot": true,
+			"startZoom": 8,
+			"rotationDegrees": -70
+		},
+		"Phoenicia|(zoom:9)": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 33.62948545097293,
+				"lng": 35.517425537109375
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"rotationDegrees": -62,
+			"letterSpacingOverride": 23
+		},
+		"Reuben": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 31.674420981619946,
+				"lng": 35.7769775390625
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"rotationDegrees": -45,
+			"letterSpacingOverride": 3
+		},
+		"Sahara Desert": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 21.70847301324597,
+				"lng": -1.20849609375
+			},
+			"startZoom": 5,
+			"endZoom": 9
+		},
+		"Simeon": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 31.31375491407894,
+				"lng": 34.420166015625
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"letterSpacingOverride": 3
+		},
+		"Urartu": {
+			"type": "region",
+			"size": "large",
+			"positionCoordinate": {
+				"lat": 39.198205348894795,
+				"lng": 42.626953125
+			},
+			"hotspot": true,
+			"startZoom": 6,
+			"endZoom": 9
+		},
+		"Urnfield Groups": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 46.57396679652779,
+				"lng": 9.96734619140625
+			},
+			"hotspot": true,
+			"startZoom": 5,
+			"endZoom": 9,
+			"rotationDegrees": -22,
+			"anchorPosition": "BOTTOM",
+			"backgroundHighlight": "medium"
+		},
+		"Urnfield<br>Groups|(Iberia/France)": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 42.97250158602597,
+				"lng": 1.91162109375
+			},
+			"hotspot": true,
+			"startZoom": 5,
+			"endZoom": 9,
+			"rotationDegrees": -45,
+			"backgroundHighlight": "lowest"
+		},
+		"Villanovan<br>Culture": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 44.85586880735725,
+				"lng": 11.129150390625
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees": -40
+		},
+		"Wessex<br>Cultures": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 51.303145259199056,
+				"lng": -0.230712890625
+			},
+			"hotspot": true,
+			"startZoom": 6,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE",
+			"letterSpacingOverride": 7
+		},
+		"Zebulun": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 32.65325087996883,
+				"lng": 34.925537109375
+			},
+			"hotspot": true,
+			"startZoom": 9,
+			"letterSpacingOverride": 2
+		},
+		"Assyria": {
+			"type": "empire",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 35.84230806912383,
+				"lng": 42.9620361328125
+			},
+			"hotspot": true,
+			"startZoom": 4,
+			"endZoom": 9,
+			"curve": {
+				"radiusPixels": 500,
+				"direction": 1
+			},
+			"rotationDegrees": 0,
+			"letterSpacingOverride": 3
+		},
+		"Egypt|(zoom:5-6)": {
+			"type": "empire",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 27.391278222579277,
+				"lng": 31.552734375
+			},
+			"hotspot": true,
+			"startZoom": 5,
+			"endZoom": 6,
+			"curve": {
+				"radiusPixels": 500,
+				"direction": 1
+			},
+			"rotationDegrees": 53,
+			"letterSpacingOverride": 5
+		},
+		"Egypt|(zoom:7-9)": {
+			"type": "empire",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 27.410785702577023,
+				"lng": 31.519775390625
+			},
+			"hotspot": true,
+			"startZoom": 7,
+			"endZoom": 9,
+			"curve": {
+				"radiusPixels": 500,
+				"direction": 1
+			},
+			"rotationDegrees": 53,
+			"letterSpacingOverride": 25
+		},
+		"Israel|(on land)": {
+			"type": "empire",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 32.18026188320708,
+				"lng": 34.99969482421875
+			},
+			"hotspot": true,
+			"startZoom": 6,
+			"endZoom": 9,
+			"curve": {
+				"radiusPixels": 500,
+				"direction": 1
+			},
+			"rotationDegrees": -25,
+			"anchorPosition": "BOTTOM RIGHT",
+			"letterSpacingOverride": 1
+		},
+		"Israel|(on water)": {
+			"type": "empire",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 32.80574473290688,
+				"lng": 35.1123046875
+			},
+			"hotspot": true,
+			"startZoom": 4,
+			"endZoom": 5,
+			"curve": {
+				"radiusPixels": 500,
+				"direction": 1
+			},
+			"rotationDegrees": 0,
+			"letterSpacingOverride": 0
+		},
+		"Western<br>Zhou<br>Dynasty": {
+			"type": "empire",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 36.00467348670187,
+				"lng": 114.61761474609375
+			},
+			"hotspot": true,
+			"startZoom": 4,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE"
+		}
 	}
 }

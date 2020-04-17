@@ -27,7 +27,7 @@
 		},
 		"Athens": {
 			"hotspot": true,
-			"minimumZoomLevel": 6
+			"minimumZoomLevel": 7
 		},
 		"Babylon": {
 			"minimumZoomLevel": 5
@@ -202,7 +202,7 @@
 			"minimumZoomLevel": 6
 		},
 		"Thebes": {
-			"minimumZoomLevel": 6
+			"minimumZoomLevel": 7
 		},
 		"Thera": {
 			"minimumZoomLevel": 6
@@ -322,11 +322,16 @@
 		"Crete": {"aliasedFrom": "586 BCE"},
 		"Cush": {"aliasedFrom": "586 BCE"},
 		"Edom": {"aliasedFrom": "586 BCE"},
+		"Elam": {"aliasedFrom": "586 BCE"},
 		"Forest Zone Cultures": {"aliasedFrom": "586 BCE"},
 		"Gilead": {"aliasedFrom": "586 BCE"},
-		"Hunter Gatherers": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(zoom:4)": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(zoom:5-6)": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(a)": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(b)": {"aliasedFrom": "586 BCE"},
 		"Indo Aryan<br>Peoples": {"aliasedFrom": "586 BCE"},
 		"Moab": {"aliasedFrom": "586 BCE"},
+		"Egypt|(zoom:4)": {"aliasedFrom": "586 BCE"},
 		"Ammon": {
 			"type": "region",
 			"size": "small",
@@ -411,11 +416,14 @@
 			"type": "region",
 			"size": "largest",
 			"positionCoordinate": {
-				"lat": 32.52828936482526,
-				"lng": 10.7666015625
+				"lat": 35.31736632923788,
+				"lng": 1.318359375
 			},
 			"startZoom": 5,
-			"rotationDegrees": 25
+			"endZoom": 9,
+			"rotationDegrees": -12,
+			"anchorPosition": "TOP",
+			"letterSpacingOverride": 10
 		},
 		"Canaan|(zoom:7)": {
 			"type": "region",
@@ -608,14 +616,16 @@
 		},
 		"Mycenaean<br>Civilization": {
 			"type": "region",
-			"size": "smallest",
+			"size": "small",
 			"positionCoordinate": {
-				"lat": 38.73694606567601,
-				"lng": 21.983642578125
+				"lat": 38.14319750166766,
+				"lng": 22.6483154296875
 			},
 			"startZoom": 6,
 			"endZoom": 9,
-			"rotationDegrees": -10,
+			"rotationDegrees": 16,
+			"anchorPosition": "BOTTOM",
+			"letterSpacingOverride": 8,
 			"backgroundHighlight": "lowest"
 		},
 		"Naphtali": {
@@ -639,6 +649,19 @@
 			"startZoom": 4,
 			"endZoom": 9,
 			"anchorPosition": "BOTTOM"
+		},
+		"Nuraghic<br>Bronze<br>Age<br>Peoples": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 41.380930388318,
+				"lng": 9.2120361328125
+			},
+			"startZoom": 5,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE",
+			"letterSpacingOverride": 2,
+			"backgroundHighlight": "lowest"
 		},
 		"Proto-Villanovan<br>Cutlure": {
 			"type": "region",
@@ -789,23 +812,22 @@
 			},
 			"rotationDegrees": 50,
 			"letterSpacingOverride": 0
-		},
-		"Egypt": {
+		}, 
+		"Egypt|(zoom:5)": {
 			"type": "empire",
 			"size": "largest",
 			"positionCoordinate": {
-				"lat": 27.605670826465445,
-				"lng": 31.9921875
+				"lat": 27.391278222579277,
+				"lng": 31.552734375
 			},
 			"hotspot": true,
-			"startZoom": 4,
-			"endZoom": 5,
+			"startZoom": 5,
 			"curve": {
 				"radiusPixels": 500,
 				"direction": 1
 			},
-			"rotationDegrees": 65,
-			"letterSpacingOverride": 1
+			"rotationDegrees": 53,
+			"letterSpacingOverride": 5
 		},
 		"Hittite Empire": {
 			"type": "empire",
@@ -874,22 +896,17 @@
 			"rotationDegrees": -24,
 			"letterSpacingOverride": 1
 		},
-		"Shang Dynasty": {
+		"Shang<br>Dynasty": {
 			"type": "empire",
 			"size": "largest",
 			"positionCoordinate": {
-				"lat": 33.17434155100208,
-				"lng": 112.67578125
+				"lat": 36.00467348670187,
+				"lng": 114.61761474609375
 			},
 			"hotspot": true,
 			"startZoom": 4,
 			"endZoom": 9,
-			"curve": {
-				"radiusPixels": 250,
-				"direction": -1
-			},
-			"rotationDegrees": -27,
-			"letterSpacingOverride": 4
+			"anchorPosition": "MIDDLE"
 		}
 	}
 }

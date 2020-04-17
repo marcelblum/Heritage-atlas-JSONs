@@ -276,7 +276,10 @@
 		"Gilead": {"aliasedFrom": "586 BCE"},
 		"Greece": {"aliasedFrom": "586 BCE"},
 		"Greeks": {"aliasedFrom": "586 BCE"},
-		"Hunter Gatherers": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(zoom:4)": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(zoom:5-6)": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(a)": {"aliasedFrom": "586 BCE"},
+		"Hunter Gatherers|(b)": {"aliasedFrom": "586 BCE"},
 		"Indo Aryan<br>Peoples": {"aliasedFrom": "586 BCE"},
 		"Judah|zoom6": {"aliasedFrom": "586 BCE"},
 		"Judah|zoom7": {"aliasedFrom": "586 BCE"},
@@ -285,6 +288,215 @@
 		"Moab": {"aliasedFrom": "586 BCE"},
 		"Farming<br>Tribes": {"aliasedFrom": "1200 BCE"},
 		"Illyrians": {"aliasedFrom": "1200 BCE"},
-		"Thracians": {"aliasedFrom": "1200 BCE"}
+		"Nuraghic<br>Bronze<br>Age<br>Peoples": {"aliasedFrom": "1200 BCE"},
+		"Thracians": {"aliasedFrom": "1200 BCE"},
+		"Adriatic Cultures": {"aliasedFrom": "967 BCE"},
+		"Ammon": {"aliasedFrom": "967 BCE"},
+		"Aramaeans|(zoom:5)": {"aliasedFrom": "967 BCE"},
+		"Aramaeans|(zoom:6)": {"aliasedFrom": "967 BCE"},
+		"Aramaeans|(zoom:7)": {"aliasedFrom": "967 BCE"},
+		"Aramaeans|(a)": {"aliasedFrom": "967 BCE"},
+		"Aramaeans|(b)": {"aliasedFrom": "967 BCE"},
+		"Babylonia": {"aliasedFrom": "967 BCE"},
+		"Bronze & Iron Age Peoples|(Eur)": {"aliasedFrom": "967 BCE"},
+		"Early Greek<br>City States": {"aliasedFrom": "967 BCE"},
+		"Epirus": {"aliasedFrom": "967 BCE"},
+		"Golasecca<br>Culture": {"aliasedFrom": "967 BCE"},
+		"Iron Age Peoples|(Greece / Anatolia)": {"aliasedFrom": "967 BCE"},
+		"Late Bronze Age and Iron Age Peoples|(Eur)": {"aliasedFrom": "967 BCE"},
+		"Late Bronze Age and<br>Iron Age Peoples|(N.Afr)": {"aliasedFrom": "967 BCE"},
+		"Late<br>Bronze Age<br>Peoples|(Brit Isles)": {"aliasedFrom": "967 BCE"},
+		"Late<br>Bronze Age<br>Peoples|(France)": {"aliasedFrom": "967 BCE"},
+		"Late<br>Bronze Age<br>Peoples|(Iberia)": {"aliasedFrom": "967 BCE"},
+		"Nomadic Peoples": {"aliasedFrom": "967 BCE"},
+		"Nordic<br>Bronze Age<br>Peoples": {"aliasedFrom": "967 BCE"},
+		"Philistia|(zoom:8)": {"aliasedFrom": "967 BCE"},
+		"Philistia|(zoom:9)": {"aliasedFrom": "967 BCE"},
+		"Phoenicia|(zoom:8)": {"aliasedFrom": "967 BCE"},
+		"Phoenicia|(zoom:9)": {"aliasedFrom": "967 BCE"},
+		"Sahara Desert": {"aliasedFrom": "967 BCE"},
+		"Urartu": {"aliasedFrom": "967 BCE"},
+		"Villanovan<br>Culture": {"aliasedFrom": "967 BCE"},
+		"Wessex<br>Cultures": {"aliasedFrom": "967 BCE"},
+		"Assyria": {"aliasedFrom": "967 BCE"},
+		"Israel|(on land)": {"aliasedFrom": "967 BCE"},
+		"Western<br>Zhou<br>Dynasty": {"aliasedFrom": "967 BCE"},
+		"Andalusian<br>Culture": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 37.61423141542417,
+				"lng": -4.6142578125
+			},
+			"hotspot": true,
+			"startZoom": 6,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE",
+			"backgroundHighlight": "lowest"
+		},
+		"Aram Damascus": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 33.578014746143985,
+				"lng": 35.826416015625
+			},
+			"hotspot": true,
+			"startZoom": 7,
+			"endZoom": 9
+		},
+		"Bronze Age<br>Nomadic Peoples|(Eur Steppe)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 48.77791275550184,
+				"lng": 52.55859375
+			},
+			"startZoom": 4,
+			"endZoom": 9
+		},
+		"Hittites": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 37.00913272027145,
+				"lng": 35.09857177734375
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees": -7,
+			"anchorPosition": "BOTTOM LEFT",
+			"letterSpacingOverride": 4
+		},
+		"Indo-Europeans": {
+			"type": "region",
+			"size": "small",
+			"positionCoordinate": {
+				"lat": 40.430223634508614,
+				"lng": 31.025390625
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees": -26,
+			"backgroundHighlight": "low"
+		},
+		"Late<br>Bronze Age<br>Peoples|(Germany Poland Russia)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 50.97226488936749,
+				"lng": 5.888671875
+			},
+			"startZoom": 6,
+			"endZoom": 9
+		},
+		"Lusatian<BR>Culture": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 52.986683840958655,
+				"lng": 15.0238037109375
+			},
+			"hotspot": true,
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees": 32,
+			"backgroundHighlight": "low"
+		},
+		"Phoenicia|(zoom:6)": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 33.77914733128647,
+				"lng": 35.936279296875
+			},
+			"hotspot": true,
+			"startZoom": 6,
+			"rotationDegrees": -60
+		},
+		"Phoenicia|(zoom:7)": {
+			"type": "region",
+			"size": "smallest",
+			"positionCoordinate": {
+				"lat": 33.63291573870479,
+				"lng": 35.5902099609375
+			},
+			"hotspot": true,
+			"startZoom": 7,
+			"rotationDegrees": -70
+		},
+		"Urnfield Groups|(France)": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 46.57396679652779,
+				"lng": 9.96734619140625
+			},
+			"hotspot": true,
+			"startZoom": 6,
+			"endZoom": 9,
+			"rotationDegrees": -22,
+			"anchorPosition": "BOTTOM",
+			"backgroundHighlight": "medium"
+		},
+		"Urnfield Groups|(Germany)": {
+			"type": "region",
+			"size": "medium",
+			"positionCoordinate": {
+				"lat": 42.97250158602597,
+				"lng": 1.91162109375
+			},
+			"hotspot": true,
+			"startZoom": 5,
+			"endZoom": 9,
+			"rotationDegrees": -45,
+			"backgroundHighlight": "lowest"
+		},
+		"Egypt|(zoom:4)": {
+			"type": "empire",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 27.332735136859146,
+				"lng": 32.34375
+			},
+			"startZoom": 4,
+			"curve": {
+				"radiusPixels": 500,
+				"direction": 1
+			},
+			"rotationDegrees": 70
+		},
+		"Egypt|(zoom:5-6)": {
+			"type": "empire",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 27.391278222579277,
+				"lng": 31.552734375
+			},
+			"startZoom": 5,
+			"endZoom": 6,
+			"curve": {
+				"radiusPixels": 500,
+				"direction": 1
+			},
+			"rotationDegrees": 53,
+			"letterSpacingOverride": 5
+		},
+		"Egypt|(zoom:7-9)": {
+			"type": "empire",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 27.410785702577023,
+				"lng": 31.519775390625
+			},
+			"startZoom": 7,
+			"endZoom": 9,
+			"curve": {
+				"radiusPixels": 500,
+				"direction": 1
+			},
+			"rotationDegrees": 53,
+			"letterSpacingOverride": 25
+		}
 	}
 }
