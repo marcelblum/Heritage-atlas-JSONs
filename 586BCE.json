@@ -849,6 +849,18 @@
 			"startZoom": 8,
 			"endZoom": 9
 		},
+		"Nordic<br>Peoples": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 59.921990024503856,
+				"lng": 10.711669921875
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE",
+			"letterSpacingOverride": 16
+		},
 		"Parthia": {
 			"type": "region",
 			"size": "medium",
@@ -859,6 +871,73 @@
 			"startZoom": 6,
 			"endZoom": 9,
 			"backgroundHighlight": "medium"
+		},
+		"Sahara Desert|(zoom:5)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 20.81774101978649,
+				"lng": 9.55810546875
+			},
+			"startZoom": 5,
+			"letterSpacingOverride": 24,
+			"anchorPosition": "BOTTOM MIDDLE"
+		},
+		"Sahara Desert|(zoom:6)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 20.81774101978649,
+				"lng": 9.55810546875
+			},
+			"startZoom": 6,
+			"letterSpacingOverride": 44,
+			"anchorPosition": "BOTTOM MIDDLE"
+		},
+		"Sahara Desert|(zoom:7)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 20.81774101978649,
+				"lng": 9.55810546875
+			},
+			"startZoom": 7,
+			"letterSpacingOverride": 64,
+			"anchorPosition": "BOTTOM MIDDLE"
+		},
+		"Sahara Desert|(zoom:8-9)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 20.81774101978649,
+				"lng": 9.55810546875
+			},
+			"startZoom": 8,
+			"endZoom": 9,
+			"letterSpacingOverride": 74,
+			"anchorPosition": "BOTTOM MIDDLE"
+		},
+		"Sahara Desert|a(zoom:8-9)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 20.81774101978649,
+				"lng": -7.899169921875
+			},
+			"startZoom": 8,
+			"endZoom": 9,
+			"letterSpacingOverride": 74
+		},
+		"Sahara Desert|b(zoom:8-9)": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 20.81774101978649,
+				"lng": 21.5606689453125
+			},
+			"startZoom": 8,
+			"endZoom": 9,
+			"letterSpacingOverride": 74
 		},
 		"Samaria": {
 			"type": "region",
@@ -1042,12 +1121,12 @@
 			"type": "empire",
 			"size": "largest",
 			"positionCoordinate": {
-				"lat": 35.31736632923788,
-				"lng": 114.7412109375
+				"lat": 36.00467348670187,
+				"lng": 114.61761474609375
 			},
 			"hotspot": true,
 			"startZoom": 4,
-			"endZoom": 6,
+			"endZoom": 9,
 			"anchorPosition": "MIDDLE"
 		},
 		"Egypt|(zoom:4)": {

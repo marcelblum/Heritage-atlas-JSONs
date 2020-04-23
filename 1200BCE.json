@@ -331,6 +331,12 @@
 		"Hunter Gatherers|(b)": {"aliasedFrom": "586 BCE"},
 		"Indo Aryan<br>Peoples": {"aliasedFrom": "586 BCE"},
 		"Moab": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|(zoom:5)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|(zoom:6)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|(zoom:7)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|(zoom:8-9)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|a(zoom:8-9)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|b(zoom:8-9)": {"aliasedFrom": "586 BCE"},
 		"Egypt|(zoom:4)": {"aliasedFrom": "586 BCE"},
 		"Ammon": {
 			"type": "region",
@@ -650,6 +656,17 @@
 			"endZoom": 9,
 			"anchorPosition": "BOTTOM"
 		},
+		"Nordic<br>Bronze Age<br>Peoples": {
+			"type": "region",
+			"size": "largest",
+			"positionCoordinate": {
+				"lat": 55.98609153380839,
+				"lng": 12.052001953125
+			},
+			"startZoom": 6,
+			"endZoom": 9,
+			"anchorPosition": "MIDDLE"
+		},
 		"Nuraghic<br>Bronze<br>Age<br>Peoples": {
 			"type": "region",
 			"size": "medium",
@@ -684,17 +701,6 @@
 			"hotspot": true,
 			"startZoom": 9,
 			"rotationDegrees": -45
-		},
-		"Sahara Desert": {
-			"type": "region",
-			"size": "largest",
-			"positionCoordinate": {
-				"lat": 20.81774101978649,
-				"lng": -0.72509765625
-			},
-			"startZoom": 5,
-			"endZoom": 9,
-			"letterSpacingOverride": 24
 		},
 		"Simeon": {
 			"type": "region",
@@ -766,8 +772,8 @@
 			"type": "empire",
 			"size": "largest",
 			"positionCoordinate": {
-				"lat": 35.84453450421662,
-				"lng": 42.9345703125
+				"lat": 35.84230806912383,
+				"lng": 42.9620361328125
 			},
 			"hotspot": true,
 			"startZoom": 4,

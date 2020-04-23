@@ -372,8 +372,15 @@
 		"Judah|curved for zoom9": {"aliasedFrom": "586 BCE"},
 		"Megiddo": {"aliasedFrom": "586 BCE"},
 		"Moab": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|(zoom:5)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|(zoom:6)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|(zoom:7)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|(zoom:8-9)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|a(zoom:8-9)": {"aliasedFrom": "586 BCE"},
+		"Sahara Desert|b(zoom:8-9)": {"aliasedFrom": "586 BCE"},
 		"Samaria": {"aliasedFrom": "586 BCE"},
 		"Thrace": {"aliasedFrom": "586 BCE"},
+		"Eastern<br>Zhou<br>Dynasty": {"aliasedFrom": "586 BCE"},
 		"Farming<br>Tribes": {"aliasedFrom": "1200 BCE"},
 		"Illyrians": {"aliasedFrom": "1200 BCE"},
 		"Bronze & Iron Age Peoples|(Eur)": {"aliasedFrom": "967 BCE"},
@@ -383,7 +390,6 @@
 		"Late<br>Bronze Age<br>Peoples|(Iberia)": {"aliasedFrom": "967 BCE"},
 		"Phoenicia|(zoom:8)": {"aliasedFrom": "967 BCE"},
 		"Phoenicia|(zoom:9)": {"aliasedFrom": "967 BCE"},
-		"Sahara Desert": {"aliasedFrom": "967 BCE"},
 		"Urartu": {"aliasedFrom": "967 BCE"},
 		"Wessex<br>Cultures": {"aliasedFrom": "967 BCE"},
 		"Phoenicia|(zoom:7)": {"aliasedFrom": "928 BCE"},
@@ -821,18 +827,6 @@
 			"rotationDegrees": -17,
 			"anchorPosition": "TOP LEFT",
 			"letterSpacingOverride": 1
-		},
-		"Eastern<br>Zhou<br>Dynasty": {
-			"type": "empire",
-			"size": "largest",
-			"positionCoordinate": {
-				"lat": 36.00467348670187,
-				"lng": 114.61761474609375
-			},
-			"hotspot": true,
-			"startZoom": 4,
-			"endZoom": 9,
-			"anchorPosition": "MIDDLE"
 		}
 	}
 }
