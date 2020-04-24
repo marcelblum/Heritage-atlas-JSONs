@@ -706,7 +706,7 @@
 				"lng": -9.25783
 			},
 			"startZoom": 4,
-			"endZoom": 7,
+			"endZoom": 9,
 			"backgroundHighlight": "low"
 		},
 		"Iron Age Peoples|for europe": {
@@ -714,11 +714,11 @@
 			"size": "largest",
 			"rotationDegrees": -30,
 			"positionCoordinate": {
-				"lat": 44.26093725039922,
-				"lng": -1.5380859375
+				"lat": 44.203866109361435,
+				"lng": -1.461181640625
 			},
 			"startZoom": 5,
-			"endZoom": 7,
+			"endZoom": 9,
 			"anchorPosition": "lower left",
 			"backgroundHighlight": "low"
 		},
@@ -1169,6 +1169,7 @@
 				"lng": 41.044921875
 			},
 			"startZoom": 4,
+			"hotspot": true,
 			"curve": {
 				"radiusPixels": 150,
 				"direction": 1
