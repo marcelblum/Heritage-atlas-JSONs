@@ -261,6 +261,39 @@
 	],
 
 
+	"SVGs": {
+		"928Static-arrows1": {
+			"SWCornerCoordinate": {
+				"lat": 34.41274,
+				"lng": 42.48895
+			},
+			"NECornerCoordinate": {
+				"lat": 36.08146,
+				"lng": 44.13690
+			}
+		},
+		"928Static-arrows2": {
+			"SWCornerCoordinate": {
+				"lat": 31.618466497803784,
+				"lng": 41.83652734375
+			},
+			"NECornerCoordinate": {
+				"lat": 36.05147,
+				"lng": 44.25352
+			}
+		},
+		"928Static-arrows3": {
+			"SWCornerCoordinate": {
+				"lat": 33.10318,
+				"lng": 35.91664
+			},
+			"NECornerCoordinate": {
+				"lat": 35.98036,
+				"lng": 39.84975
+			}
+		}
+	},
+
 
 	"labels": {
 		"Anshan [Persis]": {"aliasedFrom": "586 BCE"},

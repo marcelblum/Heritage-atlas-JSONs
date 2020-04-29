@@ -340,6 +340,19 @@
 		"Phoenician trade #2 W. mediterranean 722-586BCE"
 	],
 
+	"SVGs": {
+		"722-AssyrianEmpire": {
+			"SWCornerCoordinate": {
+				"lat": 30.858907253084922,
+				"lng": 34.352839999999986
+			},
+			"NECornerCoordinate": {
+				"lat": 38.3968383840837,
+				"lng": 46.141171015624984
+			}
+		}
+	},
+
 	"labels": {
 		"Ammon": {"aliasedFrom": "586 BCE"},
 		"Anshan [Persis]": {"aliasedFrom": "586 BCE"},
